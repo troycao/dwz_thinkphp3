@@ -1,0 +1,852 @@
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run CheckRoute Behavior [ RunTime:0.000917s ]
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ route_check ] --END-- [ RunTime:0.001106s ]
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000767s ]
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000919s ]
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run LocationTemplate Behavior [ RunTime:0.000732s ]
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_template ] --END-- [ RunTime:0.000907s ]
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ParseTemplate Behavior [ RunTime:0.010863s ]
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011035s ]
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ContentReplace Behavior [ RunTime:0.000649s ]
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run TokenBuild Behavior [ RunTime:0.000836s ]
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000425s ]
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ShowRuntime Behavior [ RunTime:0.001190s ]
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003540s ]
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ShowPageTrace Behavior [ RunTime:0.002314s ]
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_end ] --END-- [ RunTime:0.002525s ]
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.000968s ]
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001161s ]
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000825s ]
+[ 2012-08-17T12:33:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000981s ]
+[ 2012-08-17T12:34:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | ERR: (ThinkException) Access denied for user 'root'@'localhost' (using password: YES)
+[ 2012-08-17T12:34:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | ERR: (ThinkException) Access denied for user 'root'@'localhost' (using password: YES)
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run CheckRoute Behavior [ RunTime:0.001121s ]
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ route_check ] --END-- [ RunTime:0.001308s ]
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001020s ]
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001181s ]
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run LocationTemplate Behavior [ RunTime:0.001009s ]
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_template ] --END-- [ RunTime:0.001180s ]
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ParseTemplate Behavior [ RunTime:0.010026s ]
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010196s ]
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ContentReplace Behavior [ RunTime:0.000940s ]
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run TokenBuild Behavior [ RunTime:0.001060s ]
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000622s ]
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ShowRuntime Behavior [ RunTime:0.001572s ]
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004681s ]
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ShowPageTrace Behavior [ RunTime:0.002763s ]
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_end ] --END-- [ RunTime:0.003058s ]
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.001078s ]
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001252s ]
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000996s ]
+[ 2012-08-17T12:38:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001158s ]
+[ 2012-08-17T12:43:14+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | ERR: (ThinkException) Access denied for user 'root'@'localhost' (using password: YES)
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run CheckRoute Behavior [ RunTime:0.001106s ]
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ route_check ] --END-- [ RunTime:0.001282s ]
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001086s ]
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001235s ]
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run LocationTemplate Behavior [ RunTime:0.000983s ]
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_template ] --END-- [ RunTime:0.001136s ]
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ParseTemplate Behavior [ RunTime:0.011100s ]
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011310s ]
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ContentReplace Behavior [ RunTime:0.000848s ]
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run TokenBuild Behavior [ RunTime:0.000993s ]
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000615s ]
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ShowRuntime Behavior [ RunTime:0.001346s ]
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004230s ]
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ShowPageTrace Behavior [ RunTime:0.003102s ]
+[ 2012-08-17T12:48:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_end ] --END-- [ RunTime:0.003331s ]
+[ 2012-08-17T12:49:00+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:49:00+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.001682s ]
+[ 2012-08-17T12:49:00+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001925s ]
+[ 2012-08-17T12:49:00+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:49:00+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001540s ]
+[ 2012-08-17T12:49:00+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001771s ]
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run CheckRoute Behavior [ RunTime:0.001352s ]
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ route_check ] --END-- [ RunTime:0.001593s ]
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001321s ]
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001553s ]
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run LocationTemplate Behavior [ RunTime:0.015866s ]
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_template ] --END-- [ RunTime:0.016081s ]
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ParseTemplate Behavior [ RunTime:0.030368s ]
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_parse ] --END-- [ RunTime:0.030543s ]
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ContentReplace Behavior [ RunTime:0.000995s ]
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run TokenBuild Behavior [ RunTime:0.001279s ]
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000730s ]
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ShowRuntime Behavior [ RunTime:0.001785s ]
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005383s ]
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Run ShowPageTrace Behavior [ RunTime:0.003147s ]
+[ 2012-08-17T12:58:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/login | INFO: Tag[ view_end ] --END-- [ RunTime:0.003388s ]
+[ 2012-08-17T12:58:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:58:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.001536s ]
+[ 2012-08-17T12:58:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001783s ]
+[ 2012-08-17T12:58:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:58:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001586s ]
+[ 2012-08-17T12:58:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001803s ]
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Run CheckRoute Behavior [ RunTime:0.001120s ]
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001314s ]
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000902s ]
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001081s ]
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | SQL: SHOW COLUMNS FROM `user` [ RunTime:0.002354s ]
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | SQL: SELECT * FROM `user` WHERE ( `account` = 'admin' ) AND ( `status` > 0 ) LIMIT 1   [ RunTime:0.000396s ]
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | SQL: UPDATE `user` SET `last_login_time`=1345179490,`login_count`=login_count+1,`last_login_ip`='172.22.170.54' WHERE ( `id` = '1' ) [ RunTime:0.129267s ]
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000856s ]
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001027s ]
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.010782s ]
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010966s ]
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000672s ]
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000750s ]
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000472s ]
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001218s ]
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003555s ]
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002435s ]
+[ 2012-08-17T12:58:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/checkLogin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002648s ]
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Run CheckRoute Behavior [ RunTime:0.001109s ]
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001333s ]
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000957s ]
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001114s ]
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002785s ]
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000255s ]
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.031496s ]
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Run LocationTemplate Behavior [ RunTime:0.001055s ]
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.001256s ]
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Run ParseTemplate Behavior [ RunTime:0.031818s ]
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.031995s ]
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Run ContentReplace Behavior [ RunTime:0.000713s ]
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Run TokenBuild Behavior [ RunTime:0.000792s ]
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000501s ]
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000920s ]
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003395s ]
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000678s ]
+[ 2012-08-17T12:58:12+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000834s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Run CheckRoute Behavior [ RunTime:0.001355s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001568s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001149s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001342s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | SQL: SHOW COLUMNS FROM `role` [ RunTime:0.001879s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | NOTIC: [8] Undefined index: name RoleAction.class.php 第 5 行.
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | SQL: SHOW COLUMNS FROM `role` [ RunTime:0.001858s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | SQL: SELECT COUNT(id) AS tp_count FROM `role` WHERE ( `name` LIKE '%%' ) LIMIT 1   [ RunTime:0.012078s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | SQL: SELECT * FROM `role` WHERE ( `name` LIKE '%%' ) ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000354s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Run LocationTemplate Behavior [ RunTime:0.017419s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Tag[ view_template ] --END-- [ RunTime:0.017628s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 3 行.
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | NOTIC: [8] Undefined index: _sort 540802f0bd02d0614ae5d372827d97f4.php 第 4 行.
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 39 行.
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 41 行.
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Run ParseTemplate Behavior [ RunTime:0.049107s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.049302s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Run ContentReplace Behavior [ RunTime:0.000753s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Run TokenBuild Behavior [ RunTime:0.000968s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000498s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Run ShowRuntime Behavior [ RunTime:0.001287s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004019s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Run ShowPageTrace Behavior [ RunTime:0.003252s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179496084 | INFO: Tag[ view_end ] --END-- [ RunTime:0.003483s ]
+[ 2012-08-17T12:58:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/WEB_PUBLIC_PATH/Images/ok.gif | ERR: (ThinkException) 非法操作WEB_PUBLIC_PATH
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Run CheckRoute Behavior [ RunTime:0.000952s ]
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001126s ]
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000835s ]
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000998s ]
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | SQL: SHOW COLUMNS FROM `user` [ RunTime:0.002297s ]
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | NOTIC: [8] Undefined index: account UserAction.class.php 第 6 行.
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | SQL: SHOW COLUMNS FROM `user` [ RunTime:0.002072s ]
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | SQL: SELECT COUNT(id) AS tp_count FROM `user` WHERE ( `id` >= 2 ) AND ( `account` LIKE '%%' ) LIMIT 1   [ RunTime:0.000334s ]
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | SQL: SELECT * FROM `user` WHERE ( `id` >= 2 ) AND ( `account` LIKE '%%' ) ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000446s ]
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Run LocationTemplate Behavior [ RunTime:0.014022s ]
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Tag[ view_template ] --END-- [ RunTime:0.014257s ]
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 3 行.
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | NOTIC: [8] Undefined index: _sort b281e7303a51708a2850bfab05f89f50.php 第 4 行.
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 41 行.
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 42 行.
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 43 行.
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 44 行.
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 45 行.
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 46 行.
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 47 行.
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Run ParseTemplate Behavior [ RunTime:0.039470s ]
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.039696s ]
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Run ContentReplace Behavior [ RunTime:0.000780s ]
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Run TokenBuild Behavior [ RunTime:0.000851s ]
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000469s ]
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Run ShowRuntime Behavior [ RunTime:0.001187s ]
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003718s ]
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Run ShowPageTrace Behavior [ RunTime:0.003114s ]
+[ 2012-08-17T12:58:18+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179498164 | INFO: Tag[ view_end ] --END-- [ RunTime:0.003334s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Run CheckRoute Behavior [ RunTime:0.001107s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001339s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000968s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001147s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | SQL: SHOW COLUMNS FROM `role` [ RunTime:0.002627s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | NOTIC: [8] Undefined index: name RoleAction.class.php 第 5 行.
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | SQL: SHOW COLUMNS FROM `role` [ RunTime:0.001854s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | SQL: SELECT COUNT(id) AS tp_count FROM `role` WHERE ( `name` LIKE '%%' ) LIMIT 1   [ RunTime:0.000384s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | SQL: SELECT * FROM `role` WHERE ( `name` LIKE '%%' ) ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000454s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Run LocationTemplate Behavior [ RunTime:0.001574s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001877s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 3 行.
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | NOTIC: [8] Undefined index: _sort 540802f0bd02d0614ae5d372827d97f4.php 第 4 行.
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 39 行.
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 41 行.
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Run ParseTemplate Behavior [ RunTime:0.019720s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019909s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Run ContentReplace Behavior [ RunTime:0.000725s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Run TokenBuild Behavior [ RunTime:0.000863s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000465s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Run ShowRuntime Behavior [ RunTime:0.001217s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003707s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002319s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179499382 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002472s ]
+[ 2012-08-17T12:58:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/WEB_PUBLIC_PATH/Images/ok.gif | ERR: (ThinkException) 非法操作WEB_PUBLIC_PATH
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Run CheckRoute Behavior [ RunTime:0.001489s ]
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001768s ]
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001296s ]
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001528s ]
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | SQL: SHOW COLUMNS FROM `user` [ RunTime:0.002231s ]
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | NOTIC: [8] Undefined index: account UserAction.class.php 第 6 行.
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | SQL: SHOW COLUMNS FROM `user` [ RunTime:0.002370s ]
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | SQL: SELECT COUNT(id) AS tp_count FROM `user` WHERE ( `id` >= 2 ) AND ( `account` LIKE '%%' ) LIMIT 1   [ RunTime:0.000379s ]
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | SQL: SELECT * FROM `user` WHERE ( `id` >= 2 ) AND ( `account` LIKE '%%' ) ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000452s ]
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Run LocationTemplate Behavior [ RunTime:0.000986s ]
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001181s ]
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 3 行.
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | NOTIC: [8] Undefined index: _sort b281e7303a51708a2850bfab05f89f50.php 第 4 行.
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 41 行.
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 42 行.
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 43 行.
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 44 行.
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 45 行.
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 46 行.
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 47 行.
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Run ParseTemplate Behavior [ RunTime:0.019512s ]
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019676s ]
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Run ContentReplace Behavior [ RunTime:0.000994s ]
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Run TokenBuild Behavior [ RunTime:0.001342s ]
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000558s ]
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Run ShowRuntime Behavior [ RunTime:0.001219s ]
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004668s ]
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002565s ]
+[ 2012-08-17T12:58:20+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179500263 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002721s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Run CheckRoute Behavior [ RunTime:0.001452s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001688s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001281s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001518s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | SQL: SHOW COLUMNS FROM `group` [ RunTime:0.002557s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | SQL: SELECT `id`,`title` FROM `group` WHERE status=1  [ RunTime:0.000329s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.001982s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | NOTIC: [8] Undefined index: pid NodeAction.class.php 第 11 行.
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002468s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | SQL: SELECT * FROM `node` WHERE ( `id` = 0 ) LIMIT 1   [ RunTime:0.000333s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002039s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | SQL: SELECT COUNT(id) AS tp_count FROM `node` WHERE ( `pid` = 0 ) LIMIT 1   [ RunTime:0.000428s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | SQL: SELECT * FROM `node` WHERE ( `pid` = 0 ) ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000553s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Run LocationTemplate Behavior [ RunTime:0.011319s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Tag[ view_template ] --END-- [ RunTime:0.011495s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | NOTIC: [8] Undefined index: _order fc73575304ffe6a06a61dd52ee406a2c.php 第 3 行.
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | NOTIC: [8] Undefined index: _sort fc73575304ffe6a06a61dd52ee406a2c.php 第 4 行.
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | NOTIC: [8] Undefined index: _order fc73575304ffe6a06a61dd52ee406a2c.php 第 40 行.
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | NOTIC: [8] Undefined index: _order fc73575304ffe6a06a61dd52ee406a2c.php 第 43 行.
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | NOTIC: [8] Undefined index: _order fc73575304ffe6a06a61dd52ee406a2c.php 第 44 行.
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | NOTIC: [8] Undefined index: sequence fc73575304ffe6a06a61dd52ee406a2c.php 第 54 行.
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Run ParseTemplate Behavior [ RunTime:0.022356s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022525s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Run ContentReplace Behavior [ RunTime:0.000714s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Run TokenBuild Behavior [ RunTime:0.000989s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000586s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Run ShowRuntime Behavior [ RunTime:0.001974s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004755s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002546s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179501131 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002717s ]
+[ 2012-08-17T12:58:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/WEB_PUBLIC_PATH/Images/ok.gif | ERR: (ThinkException) 非法操作WEB_PUBLIC_PATH
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Run CheckRoute Behavior [ RunTime:0.001464s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001707s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000916s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001079s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | SQL: SHOW COLUMNS FROM `role` [ RunTime:0.002449s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | NOTIC: [8] Undefined index: name RoleAction.class.php 第 5 行.
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | SQL: SHOW COLUMNS FROM `role` [ RunTime:0.002542s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | SQL: SELECT COUNT(id) AS tp_count FROM `role` WHERE ( `name` LIKE '%%' ) LIMIT 1   [ RunTime:0.000336s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | SQL: SELECT * FROM `role` WHERE ( `name` LIKE '%%' ) ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000427s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Run LocationTemplate Behavior [ RunTime:0.001057s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001288s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 3 行.
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | NOTIC: [8] Undefined index: _sort 540802f0bd02d0614ae5d372827d97f4.php 第 4 行.
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 39 行.
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 41 行.
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Run ParseTemplate Behavior [ RunTime:0.019307s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019503s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Run ContentReplace Behavior [ RunTime:0.001065s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Run TokenBuild Behavior [ RunTime:0.001003s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000609s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Run ShowRuntime Behavior [ RunTime:0.001325s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004512s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002637s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179502133 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002846s ]
+[ 2012-08-17T12:58:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/WEB_PUBLIC_PATH/Images/ok.gif | ERR: (ThinkException) 非法操作WEB_PUBLIC_PATH
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Run CheckRoute Behavior [ RunTime:0.001040s ]
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001232s ]
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000884s ]
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001049s ]
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | SQL: SHOW COLUMNS FROM `user` [ RunTime:0.002287s ]
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | NOTIC: [8] Undefined index: account UserAction.class.php 第 6 行.
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | SQL: SHOW COLUMNS FROM `user` [ RunTime:0.001957s ]
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | SQL: SELECT COUNT(id) AS tp_count FROM `user` WHERE ( `id` >= 2 ) AND ( `account` LIKE '%%' ) LIMIT 1   [ RunTime:0.000324s ]
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | SQL: SELECT * FROM `user` WHERE ( `id` >= 2 ) AND ( `account` LIKE '%%' ) ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000470s ]
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Run LocationTemplate Behavior [ RunTime:0.001514s ]
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001797s ]
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 3 行.
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | NOTIC: [8] Undefined index: _sort b281e7303a51708a2850bfab05f89f50.php 第 4 行.
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 41 行.
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 42 行.
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 43 行.
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 44 行.
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 45 行.
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 46 行.
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 47 行.
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Run ParseTemplate Behavior [ RunTime:0.021837s ]
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022148s ]
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Run ContentReplace Behavior [ RunTime:0.001077s ]
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Run TokenBuild Behavior [ RunTime:0.001173s ]
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000588s ]
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Run ShowRuntime Behavior [ RunTime:0.001303s ]
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004686s ]
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002645s ]
+[ 2012-08-17T12:58:23+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179503602 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002856s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Run CheckRoute Behavior [ RunTime:0.000979s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001147s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000965s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001146s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | SQL: SHOW COLUMNS FROM `group` [ RunTime:0.002196s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | SQL: SELECT `id`,`title` FROM `group` WHERE status=1  [ RunTime:0.000218s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002767s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | NOTIC: [8] Undefined index: pid NodeAction.class.php 第 11 行.
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002713s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | SQL: SELECT * FROM `node` WHERE ( `id` = 0 ) LIMIT 1   [ RunTime:0.000307s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002393s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | SQL: SELECT COUNT(id) AS tp_count FROM `node` WHERE ( `pid` = 0 ) LIMIT 1   [ RunTime:0.000297s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | SQL: SELECT * FROM `node` WHERE ( `pid` = 0 ) ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000361s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Run LocationTemplate Behavior [ RunTime:0.001009s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001210s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | NOTIC: [8] Undefined index: _order fc73575304ffe6a06a61dd52ee406a2c.php 第 3 行.
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | NOTIC: [8] Undefined index: _sort fc73575304ffe6a06a61dd52ee406a2c.php 第 4 行.
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | NOTIC: [8] Undefined index: _order fc73575304ffe6a06a61dd52ee406a2c.php 第 40 行.
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | NOTIC: [8] Undefined index: _order fc73575304ffe6a06a61dd52ee406a2c.php 第 43 行.
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | NOTIC: [8] Undefined index: _order fc73575304ffe6a06a61dd52ee406a2c.php 第 44 行.
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | NOTIC: [8] Undefined index: sequence fc73575304ffe6a06a61dd52ee406a2c.php 第 54 行.
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Run ParseTemplate Behavior [ RunTime:0.019834s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019982s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Run ContentReplace Behavior [ RunTime:0.000818s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Run TokenBuild Behavior [ RunTime:0.001257s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001208s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Run ShowRuntime Behavior [ RunTime:0.001981s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006262s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Run ShowPageTrace Behavior [ RunTime:0.003849s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345179509365 | INFO: Tag[ view_end ] --END-- [ RunTime:0.004213s ]
+[ 2012-08-17T12:58:29+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/WEB_PUBLIC_PATH/Images/ok.gif | ERR: (ThinkException) 非法操作WEB_PUBLIC_PATH
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Run CheckRoute Behavior [ RunTime:0.001033s ]
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001238s ]
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000972s ]
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001158s ]
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | SQL: SHOW COLUMNS FROM `user` [ RunTime:0.002116s ]
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | NOTIC: [8] Undefined index: account UserAction.class.php 第 6 行.
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | SQL: SHOW COLUMNS FROM `user` [ RunTime:0.001949s ]
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | SQL: SELECT COUNT(id) AS tp_count FROM `user` WHERE ( `id` >= 2 ) AND ( `account` LIKE '%%' ) LIMIT 1   [ RunTime:0.000277s ]
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | SQL: SELECT * FROM `user` WHERE ( `id` >= 2 ) AND ( `account` LIKE '%%' ) ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000351s ]
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Run LocationTemplate Behavior [ RunTime:0.000857s ]
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001009s ]
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 3 行.
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | NOTIC: [8] Undefined index: _sort b281e7303a51708a2850bfab05f89f50.php 第 4 行.
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 41 行.
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 42 行.
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 43 行.
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 44 行.
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 45 行.
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 46 行.
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 47 行.
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Run ParseTemplate Behavior [ RunTime:0.020319s ]
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020522s ]
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Run ContentReplace Behavior [ RunTime:0.001021s ]
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Run TokenBuild Behavior [ RunTime:0.001334s ]
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001082s ]
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Run ShowRuntime Behavior [ RunTime:0.001540s ]
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005631s ]
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Run ShowPageTrace Behavior [ RunTime:0.003647s ]
+[ 2012-08-17T12:58:47+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345179527536 | INFO: Tag[ view_end ] --END-- [ RunTime:0.003866s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Run CheckRoute Behavior [ RunTime:0.000989s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001225s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001297s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001513s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | SQL: SHOW COLUMNS FROM `role` [ RunTime:0.002440s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | NOTIC: [8] Undefined index: name RoleAction.class.php 第 5 行.
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | SQL: SHOW COLUMNS FROM `role` [ RunTime:0.002388s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | SQL: SELECT COUNT(id) AS tp_count FROM `role` WHERE ( `name` LIKE '%%' ) LIMIT 1   [ RunTime:0.000336s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | SQL: SELECT * FROM `role` WHERE ( `name` LIKE '%%' ) ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000444s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Run LocationTemplate Behavior [ RunTime:0.001357s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001591s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 3 行.
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | NOTIC: [8] Undefined index: _sort 540802f0bd02d0614ae5d372827d97f4.php 第 4 行.
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 39 行.
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 41 行.
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Run ParseTemplate Behavior [ RunTime:0.016254s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016437s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Run ContentReplace Behavior [ RunTime:0.000713s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Run TokenBuild Behavior [ RunTime:0.000856s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000463s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Run ShowRuntime Behavior [ RunTime:0.001248s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003713s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002698s ]
+[ 2012-08-17T12:58:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345179534624 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002905s ]
+[ 2012-08-17T12:58:55+08:00 ] /dwz_thinkphp3/Admin/index.php/Index/WEB_PUBLIC_PATH/Images/ok.gif | ERR: (ThinkException) 非法操作WEB_PUBLIC_PATH
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Run CheckRoute Behavior [ RunTime:0.001010s ]
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001193s ]
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000851s ]
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001012s ]
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | SQL: SHOW COLUMNS FROM `user` [ RunTime:0.002507s ]
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | NOTIC: [8] Undefined index: account UserAction.class.php 第 6 行.
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | SQL: SHOW COLUMNS FROM `user` [ RunTime:0.001920s ]
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | SQL: SELECT COUNT(id) AS tp_count FROM `user` WHERE ( `id` >= 2 ) AND ( `account` LIKE '%%' ) LIMIT 1   [ RunTime:0.000619s ]
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | SQL: SELECT * FROM `user` WHERE ( `id` >= 2 ) AND ( `account` LIKE '%%' ) ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000460s ]
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Run LocationTemplate Behavior [ RunTime:0.001386s ]
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001627s ]
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 3 行.
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | NOTIC: [8] Undefined index: _sort b281e7303a51708a2850bfab05f89f50.php 第 4 行.
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 41 行.
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 42 行.
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 43 行.
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 44 行.
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 45 行.
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 46 行.
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | NOTIC: [8] Undefined index: _order b281e7303a51708a2850bfab05f89f50.php 第 47 行.
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Run ParseTemplate Behavior [ RunTime:0.022770s ]
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023000s ]
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Run ContentReplace Behavior [ RunTime:0.001011s ]
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Run TokenBuild Behavior [ RunTime:0.001241s ]
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000727s ]
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Run ShowRuntime Behavior [ RunTime:0.001780s ]
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005390s ]
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Run ShowPageTrace Behavior [ RunTime:0.003285s ]
+[ 2012-08-17T14:12:11+08:00 ] /dwz_thinkphp3/Admin/index.php/User/index/?_=1345183930912 | INFO: Tag[ view_end ] --END-- [ RunTime:0.003527s ]
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Run CheckRoute Behavior [ RunTime:0.001007s ]
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001181s ]
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000919s ]
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001076s ]
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | SQL: SHOW COLUMNS FROM `user` [ RunTime:0.002151s ]
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | SQL: SELECT * FROM `user` WHERE ( `id` = '1' ) LIMIT 1   [ RunTime:0.000357s ]
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Run LocationTemplate Behavior [ RunTime:0.000977s ]
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001132s ]
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Run ParseTemplate Behavior [ RunTime:0.021634s ]
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021815s ]
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Run ContentReplace Behavior [ RunTime:0.001060s ]
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Run TokenBuild Behavior [ RunTime:0.001026s ]
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000524s ]
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Run ShowRuntime Behavior [ RunTime:0.001204s ]
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004297s ]
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002121s ]
+[ 2012-08-17T14:12:19+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/profile/?_=1345183938868 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002297s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Run CheckRoute Behavior [ RunTime:0.000897s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001079s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000827s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000996s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Run LocationTemplate Behavior [ RunTime:0.000750s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000933s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | NOTIC: [8] Undefined variable: vo 822e3f8b61887e5710f8d1482ce830ee.php 第 5 行.
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Run ParseTemplate Behavior [ RunTime:0.010090s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010256s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Run ContentReplace Behavior [ RunTime:0.000619s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Run TokenBuild Behavior [ RunTime:0.000817s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000444s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Run ShowRuntime Behavior [ RunTime:0.001253s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003604s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002965s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/password/?_=1345183951897 | INFO: Tag[ view_end ] --END-- [ RunTime:0.003271s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Run CheckRoute Behavior [ RunTime:0.000936s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001120s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000823s ]
+[ 2012-08-17T14:12:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/verify/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000976s ]
+[ 2012-08-17T14:12:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T14:12:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Run CheckRoute Behavior [ RunTime:0.000925s ]
+[ 2012-08-17T14:12:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001096s ]
+[ 2012-08-17T14:12:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T14:12:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000800s ]
+[ 2012-08-17T14:12:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000959s ]
+[ 2012-08-17T14:12:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T14:12:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Run LocationTemplate Behavior [ RunTime:0.000853s ]
+[ 2012-08-17T14:12:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001031s ]
+[ 2012-08-17T14:12:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T14:12:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Run ParseTemplate Behavior [ RunTime:0.012161s ]
+[ 2012-08-17T14:12:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012352s ]
+[ 2012-08-17T14:12:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T14:12:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Run ContentReplace Behavior [ RunTime:0.000709s ]
+[ 2012-08-17T14:12:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Run TokenBuild Behavior [ RunTime:0.000886s ]
+[ 2012-08-17T14:12:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000483s ]
+[ 2012-08-17T14:12:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Run ShowRuntime Behavior [ RunTime:0.001282s ]
+[ 2012-08-17T14:12:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003849s ]
+[ 2012-08-17T14:12:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T14:12:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Run ShowPageTrace Behavior [ RunTime:0.003382s ]
+[ 2012-08-17T14:12:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Public/main?_=1345183964817 | INFO: Tag[ view_end ] --END-- [ RunTime:0.003608s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Run CheckRoute Behavior [ RunTime:0.000989s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001177s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000887s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001049s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | SQL: SHOW COLUMNS FROM `role` [ RunTime:0.002838s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | SQL: SELECT `id`,`name` FROM `role`  [ RunTime:0.000297s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | SQL: SHOW COLUMNS FROM `role` [ RunTime:0.002459s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | SQL: SELECT * FROM `role` WHERE ( `id` = '1' ) LIMIT 1   [ RunTime:0.000368s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Run LocationTemplate Behavior [ RunTime:0.000998s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001166s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | NOTIC: [8] Undefined index: id 9b625d3141a482e59c01619e7e5ebe8f.php 第 16 行.
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Run ParseTemplate Behavior [ RunTime:0.036400s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.036562s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Run ContentReplace Behavior [ RunTime:0.000689s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Run TokenBuild Behavior [ RunTime:0.000911s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000494s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Run ShowRuntime Behavior [ RunTime:0.001238s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003798s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002893s ]
+[ 2012-08-17T14:14:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/1?_=1345184085302 | INFO: Tag[ view_end ] --END-- [ RunTime:0.003096s ]
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000857s ]
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001028s ]
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002137s ]
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000250s ]
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000356s ]
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001006s ]
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001169s ]
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.020451s ]
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020617s ]
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000667s ]
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000726s ]
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000431s ]
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000873s ]
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003140s ]
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000595s ]
+[ 2012-08-17T15:30:24+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000751s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Run CheckRoute Behavior [ RunTime:0.001452s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001696s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001286s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001512s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | SQL: SHOW COLUMNS FROM `role` [ RunTime:0.002826s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | NOTIC: [8] Undefined index: name RoleAction.class.php 第 5 行.
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | SQL: SHOW COLUMNS FROM `role` [ RunTime:0.002501s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | SQL: SELECT COUNT(id) AS tp_count FROM `role` WHERE ( `name` LIKE '%%' ) LIMIT 1   [ RunTime:0.000289s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | SQL: SELECT * FROM `role` WHERE ( `name` LIKE '%%' ) ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000368s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Run LocationTemplate Behavior [ RunTime:0.001376s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001613s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 3 行.
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | NOTIC: [8] Undefined index: _sort 540802f0bd02d0614ae5d372827d97f4.php 第 4 行.
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 39 行.
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 41 行.
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Run ParseTemplate Behavior [ RunTime:0.039756s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.039944s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Run ContentReplace Behavior [ RunTime:0.000690s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Run TokenBuild Behavior [ RunTime:0.000879s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000482s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Run ShowRuntime Behavior [ RunTime:0.001221s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003712s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002226s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188636099 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002432s ]
+[ 2012-08-17T15:30:36+08:00 ] /dwz_thinkphp3/Admin/WEB_PUBLIC_PATH/Images/ok.gif | ERR: (ThinkException) 无法加载模块WEB_PUBLIC_PATH
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Run CheckRoute Behavior [ RunTime:0.001416s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Tag[ route_check ] --END-- [ RunTime:0.001658s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001270s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001503s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | SQL: SHOW COLUMNS FROM `role` [ RunTime:0.002192s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | SQL: SHOW COLUMNS FROM `role` [ RunTime:0.002538s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | SQL: SELECT COUNT(id) AS tp_count FROM `role` WHERE ( `name` LIKE '%员工%' ) LIMIT 1   [ RunTime:0.000267s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | SQL: SELECT * FROM `role` WHERE ( `name` LIKE '%员工%' ) ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000354s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Run LocationTemplate Behavior [ RunTime:0.000908s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Tag[ view_template ] --END-- [ RunTime:0.001064s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 3 行.
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | NOTIC: [8] Undefined index: _sort 540802f0bd02d0614ae5d372827d97f4.php 第 4 行.
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 39 行.
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 41 行.
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Run ParseTemplate Behavior [ RunTime:0.014921s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015092s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Run ContentReplace Behavior [ RunTime:0.000710s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Run TokenBuild Behavior [ RunTime:0.000875s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000484s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Run ShowRuntime Behavior [ RunTime:0.001367s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003892s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Run ShowPageTrace Behavior [ RunTime:0.002431s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Role | INFO: Tag[ view_end ] --END-- [ RunTime:0.002597s ]
+[ 2012-08-17T15:30:44+08:00 ] /dwz_thinkphp3/Admin/WEB_PUBLIC_PATH/Images/ok.gif | ERR: (ThinkException) 无法加载模块WEB_PUBLIC_PATH
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Run CheckRoute Behavior [ RunTime:0.001307s ]
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001561s ]
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001161s ]
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001378s ]
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | SQL: SHOW COLUMNS FROM `role` [ RunTime:0.001875s ]
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | SQL: SELECT `id`,`name` FROM `role`  [ RunTime:0.000297s ]
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | SQL: SHOW COLUMNS FROM `role` [ RunTime:0.002570s ]
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | SQL: SELECT * FROM `role` WHERE ( `id` = '2' ) LIMIT 1   [ RunTime:0.000333s ]
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Run LocationTemplate Behavior [ RunTime:0.000904s ]
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001060s ]
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | NOTIC: [8] Undefined index: id 9b625d3141a482e59c01619e7e5ebe8f.php 第 16 行.
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Run ParseTemplate Behavior [ RunTime:0.012960s ]
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013125s ]
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Run ContentReplace Behavior [ RunTime:0.000640s ]
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Run TokenBuild Behavior [ RunTime:0.000825s ]
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000446s ]
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Run ShowRuntime Behavior [ RunTime:0.001209s ]
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003552s ]
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002152s ]
+[ 2012-08-17T15:31:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/edit/id/2?_=1345188706504 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002330s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Run CheckRoute Behavior [ RunTime:0.000925s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001100s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000829s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000998s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | SQL: SHOW COLUMNS FROM `group` [ RunTime:0.001976s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | SQL: SELECT `id`,`title` FROM `group` WHERE status=1  [ RunTime:0.000238s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.001919s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | NOTIC: [8] Undefined index: pid NodeAction.class.php 第 11 行.
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.001885s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | SQL: SELECT * FROM `node` WHERE ( `id` = 0 ) LIMIT 1   [ RunTime:0.000274s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.001964s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | SQL: SELECT COUNT(id) AS tp_count FROM `node` WHERE ( `pid` = 0 ) LIMIT 1   [ RunTime:0.000280s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | SQL: SELECT * FROM `node` WHERE ( `pid` = 0 ) ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000336s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Run LocationTemplate Behavior [ RunTime:0.000973s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001139s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | NOTIC: [8] Undefined index: _order fc73575304ffe6a06a61dd52ee406a2c.php 第 3 行.
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | NOTIC: [8] Undefined index: _sort fc73575304ffe6a06a61dd52ee406a2c.php 第 4 行.
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | NOTIC: [8] Undefined index: _order fc73575304ffe6a06a61dd52ee406a2c.php 第 40 行.
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | NOTIC: [8] Undefined index: _order fc73575304ffe6a06a61dd52ee406a2c.php 第 43 行.
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | NOTIC: [8] Undefined index: _order fc73575304ffe6a06a61dd52ee406a2c.php 第 44 行.
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | NOTIC: [8] Undefined index: sequence fc73575304ffe6a06a61dd52ee406a2c.php 第 54 行.
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Run ParseTemplate Behavior [ RunTime:0.019949s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020107s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Run ContentReplace Behavior [ RunTime:0.000624s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Run TokenBuild Behavior [ RunTime:0.000826s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000426s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Run ShowRuntime Behavior [ RunTime:0.001183s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003474s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002175s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Node/index/?_=1345188717078 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002373s ]
+[ 2012-08-17T15:31:57+08:00 ] /dwz_thinkphp3/Admin/WEB_PUBLIC_PATH/Images/ok.gif | ERR: (ThinkException) 无法加载模块WEB_PUBLIC_PATH
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Tag[ route_check ] --START--
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Run CheckRoute Behavior [ RunTime:0.000896s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001078s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000841s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001004s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | SQL: SHOW COLUMNS FROM `role` [ RunTime:0.001931s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | NOTIC: [8] Undefined index: name RoleAction.class.php 第 5 行.
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | SQL: SHOW COLUMNS FROM `role` [ RunTime:0.002569s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | SQL: SELECT COUNT(id) AS tp_count FROM `role` WHERE ( `name` LIKE '%%' ) LIMIT 1   [ RunTime:0.000278s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | SQL: SELECT * FROM `role` WHERE ( `name` LIKE '%%' ) ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000317s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Run LocationTemplate Behavior [ RunTime:0.000850s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001009s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 3 行.
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | NOTIC: [8] Undefined index: _sort 540802f0bd02d0614ae5d372827d97f4.php 第 4 行.
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 39 行.
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | NOTIC: [8] Undefined index: _order 540802f0bd02d0614ae5d372827d97f4.php 第 41 行.
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | NOTIC: [8] Use of undefined constant WEB_PUBLIC_PATH - assumed 'WEB_PUBLIC_PATH' common.php 第 70 行.
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Run ParseTemplate Behavior [ RunTime:0.016264s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016430s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Run ContentReplace Behavior [ RunTime:0.000691s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Run TokenBuild Behavior [ RunTime:0.000859s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000612s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Run ShowRuntime Behavior [ RunTime:0.001320s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003988s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002690s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/index.php/Role/index/?_=1345188718509 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002887s ]
+[ 2012-08-17T15:31:58+08:00 ] /dwz_thinkphp3/Admin/WEB_PUBLIC_PATH/Images/ok.gif | ERR: (ThinkException) 无法加载模块WEB_PUBLIC_PATH
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001311s ]
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001552s ]
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.001923s ]
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000251s ]
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000331s ]
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000956s ]
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001120s ]
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.015469s ]
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015644s ]
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000735s ]
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000727s ]
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000440s ]
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000886s ]
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003229s ]
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000641s ]
+[ 2012-08-17T15:34:40+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000806s ]
