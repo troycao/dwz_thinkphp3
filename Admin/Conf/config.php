@@ -15,6 +15,7 @@ $config	= array(
 	'DB_PWD'=>'',
 	'DB_PORT'=>'3306',
 	'DB_PREFIX'=>'',
+	'DB_FIELDS_CACHE'=>'false',
 
 	'APP_AUTOLOAD_PATH'=>'@.TagLib',
 	'SESSION_AUTO_START'=>true,

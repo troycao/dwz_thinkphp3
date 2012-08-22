@@ -1,0 +1,1417 @@
+[ 2012-08-22T10:18:25+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T10:18:25+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.024355s ]
+[ 2012-08-22T10:18:25+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.044059s ]
+[ 2012-08-22T10:18:26+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T10:18:26+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.044801s ]
+[ 2012-08-22T10:18:26+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.044999s ]
+[ 2012-08-22T10:18:26+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T10:18:26+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined variable: menu f12c0a77906a0f355c95666536d66c0f.php 第 128 行.
+[ 2012-08-22T10:18:26+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: loginUserName f12c0a77906a0f355c95666536d66c0f.php 第 198 行.
+[ 2012-08-22T10:18:26+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.101588s ]
+[ 2012-08-22T10:18:26+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.101760s ]
+[ 2012-08-22T10:18:26+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T10:18:26+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.010212s ]
+[ 2012-08-22T10:18:26+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.009998s ]
+[ 2012-08-22T10:18:26+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.008191s ]
+[ 2012-08-22T10:18:26+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002602s ]
+[ 2012-08-22T10:18:26+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.031588s ]
+[ 2012-08-22T10:18:26+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T10:18:26+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.027617s ]
+[ 2012-08-22T10:18:26+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.027833s ]
+[ 2012-08-22T10:18:27+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Run CheckRoute Behavior [ RunTime:0.002409s ]
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002647s ]
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.015250s ]
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.015435s ]
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Run LocationTemplate Behavior [ RunTime:0.012893s ]
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Tag[ view_template ] --END-- [ RunTime:0.013116s ]
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Run ParseTemplate Behavior [ RunTime:0.033448s ]
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.033707s ]
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Run ContentReplace Behavior [ RunTime:0.018131s ]
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Run TokenBuild Behavior [ RunTime:0.010464s ]
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.007646s ]
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Run ShowRuntime Behavior [ RunTime:0.001691s ]
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.038497s ]
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Run ShowPageTrace Behavior [ RunTime:0.005313s ]
+[ 2012-08-22T10:25:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345602350427 | INFO: Tag[ view_end ] --END-- [ RunTime:0.005534s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run CheckRoute Behavior [ RunTime:0.000963s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ route_check ] --END-- [ RunTime:0.001145s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000734s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000901s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run LocationTemplate Behavior [ RunTime:0.000496s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_template ] --END-- [ RunTime:0.000685s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ParseTemplate Behavior [ RunTime:0.034726s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_parse ] --END-- [ RunTime:0.034925s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ContentReplace Behavior [ RunTime:0.000626s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run TokenBuild Behavior [ RunTime:0.001680s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000731s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ShowRuntime Behavior [ RunTime:0.001635s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005347s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ShowPageTrace Behavior [ RunTime:0.002118s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_end ] --END-- [ RunTime:0.002349s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run CheckRoute Behavior [ RunTime:0.001167s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ route_check ] --END-- [ RunTime:0.001417s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000970s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001201s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run LocationTemplate Behavior [ RunTime:0.000618s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_template ] --END-- [ RunTime:0.000854s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ParseTemplate Behavior [ RunTime:0.010742s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010982s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ContentReplace Behavior [ RunTime:0.000651s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run TokenBuild Behavior [ RunTime:0.000790s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000405s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ShowRuntime Behavior [ RunTime:0.001490s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003960s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ShowPageTrace Behavior [ RunTime:0.001912s ]
+[ 2012-08-22T10:26:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_end ] --END-- [ RunTime:0.002139s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run CheckRoute Behavior [ RunTime:0.001119s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ route_check ] --END-- [ RunTime:0.001369s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000974s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001197s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run LocationTemplate Behavior [ RunTime:0.000606s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_template ] --END-- [ RunTime:0.000844s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ParseTemplate Behavior [ RunTime:0.009657s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009907s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ContentReplace Behavior [ RunTime:0.000758s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run TokenBuild Behavior [ RunTime:0.000609s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000309s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ShowRuntime Behavior [ RunTime:0.001119s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003354s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ShowPageTrace Behavior [ RunTime:0.001394s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_end ] --END-- [ RunTime:0.001565s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run CheckRoute Behavior [ RunTime:0.000783s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ route_check ] --END-- [ RunTime:0.000975s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000686s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000853s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run LocationTemplate Behavior [ RunTime:0.000440s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_template ] --END-- [ RunTime:0.000616s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ParseTemplate Behavior [ RunTime:0.007838s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008016s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ContentReplace Behavior [ RunTime:0.000488s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run TokenBuild Behavior [ RunTime:0.000585s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000305s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ShowRuntime Behavior [ RunTime:0.001079s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002925s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ShowPageTrace Behavior [ RunTime:0.001521s ]
+[ 2012-08-22T10:26:06+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_end ] --END-- [ RunTime:0.001693s ]
+[ 2012-08-22T11:02:30+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T11:02:30+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000968s ]
+[ 2012-08-22T11:02:30+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001160s ]
+[ 2012-08-22T11:02:30+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T11:02:30+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.058184s ]
+[ 2012-08-22T11:02:30+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.058410s ]
+[ 2012-08-22T11:02:30+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T11:02:31+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined variable: menu f12c0a77906a0f355c95666536d66c0f.php 第 128 行.
+[ 2012-08-22T11:02:31+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: loginUserName f12c0a77906a0f355c95666536d66c0f.php 第 198 行.
+[ 2012-08-22T11:02:31+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.322224s ]
+[ 2012-08-22T11:02:31+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.322398s ]
+[ 2012-08-22T11:02:31+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T11:02:31+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.012428s ]
+[ 2012-08-22T11:02:31+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.035048s ]
+[ 2012-08-22T11:02:31+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.033088s ]
+[ 2012-08-22T11:02:31+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.009420s ]
+[ 2012-08-22T11:02:31+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.090557s ]
+[ 2012-08-22T11:02:31+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T11:02:31+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001180s ]
+[ 2012-08-22T11:02:31+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001399s ]
+[ 2012-08-22T11:02:32+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Run CheckRoute Behavior [ RunTime:0.001028s ]
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001219s ]
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000978s ]
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001145s ]
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Run LocationTemplate Behavior [ RunTime:0.000855s ]
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001033s ]
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Run ParseTemplate Behavior [ RunTime:0.021322s ]
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021514s ]
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Run ContentReplace Behavior [ RunTime:0.000677s ]
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Run TokenBuild Behavior [ RunTime:0.000941s ]
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000460s ]
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Run ShowRuntime Behavior [ RunTime:0.001612s ]
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004212s ]
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002063s ]
+[ 2012-08-22T11:02:33+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345604553411 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002282s ]
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run CheckRoute Behavior [ RunTime:0.000904s ]
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ route_check ] --END-- [ RunTime:0.001118s ]
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000831s ]
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001002s ]
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run LocationTemplate Behavior [ RunTime:0.000766s ]
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_template ] --END-- [ RunTime:0.000972s ]
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ParseTemplate Behavior [ RunTime:0.063513s ]
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_parse ] --END-- [ RunTime:0.063715s ]
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ContentReplace Behavior [ RunTime:0.000654s ]
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run TokenBuild Behavior [ RunTime:0.000735s ]
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000484s ]
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ShowRuntime Behavior [ RunTime:0.001275s ]
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003622s ]
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ShowPageTrace Behavior [ RunTime:0.001710s ]
+[ 2012-08-22T11:02:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_end ] --END-- [ RunTime:0.001898s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run CheckRoute Behavior [ RunTime:0.000924s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ route_check ] --END-- [ RunTime:0.001130s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000836s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001002s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run LocationTemplate Behavior [ RunTime:0.000739s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_template ] --END-- [ RunTime:0.000921s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ParseTemplate Behavior [ RunTime:0.009721s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009925s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ContentReplace Behavior [ RunTime:0.000637s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run TokenBuild Behavior [ RunTime:0.000754s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000452s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ShowRuntime Behavior [ RunTime:0.001504s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003832s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ShowPageTrace Behavior [ RunTime:0.001907s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_end ] --END-- [ RunTime:0.002082s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run CheckRoute Behavior [ RunTime:0.000921s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ route_check ] --END-- [ RunTime:0.001118s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001084s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001272s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run LocationTemplate Behavior [ RunTime:0.000744s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_template ] --END-- [ RunTime:0.000919s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ParseTemplate Behavior [ RunTime:0.009466s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009708s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ContentReplace Behavior [ RunTime:0.000672s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run TokenBuild Behavior [ RunTime:0.000706s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000450s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ShowRuntime Behavior [ RunTime:0.001354s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003686s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Run ShowPageTrace Behavior [ RunTime:0.001756s ]
+[ 2012-08-22T11:02:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/db_lookupSuggest | INFO: Tag[ view_end ] --END-- [ RunTime:0.001931s ]
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000998s ]
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001182s ]
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000981s ]
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001165s ]
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined variable: menu f12c0a77906a0f355c95666536d66c0f.php 第 128 行.
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: loginUserName f12c0a77906a0f355c95666536d66c0f.php 第 198 行.
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.016341s ]
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016511s ]
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000863s ]
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000893s ]
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000656s ]
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001047s ]
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003958s ]
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001108s ]
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001337s ]
+[ 2012-08-22T13:50:04+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Run CheckRoute Behavior [ RunTime:0.001114s ]
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001315s ]
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000964s ]
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001136s ]
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Run LocationTemplate Behavior [ RunTime:0.000823s ]
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001003s ]
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Run ParseTemplate Behavior [ RunTime:0.008655s ]
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008835s ]
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Run ContentReplace Behavior [ RunTime:0.000699s ]
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Run TokenBuild Behavior [ RunTime:0.000900s ]
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000450s ]
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Run ShowRuntime Behavior [ RunTime:0.001212s ]
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003717s ]
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001682s ]
+[ 2012-08-22T13:50:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614605885 | INFO: Tag[ view_end ] --END-- [ RunTime:0.001858s ]
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Run CheckRoute Behavior [ RunTime:0.001037s ]
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001227s ]
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000868s ]
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001069s ]
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Run LocationTemplate Behavior [ RunTime:0.000953s ]
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001152s ]
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Run ParseTemplate Behavior [ RunTime:0.011625s ]
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011813s ]
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Run ContentReplace Behavior [ RunTime:0.000629s ]
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Run TokenBuild Behavior [ RunTime:0.000849s ]
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000436s ]
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Run ShowRuntime Behavior [ RunTime:0.001208s ]
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003592s ]
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001945s ]
+[ 2012-08-22T13:51:24+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345614684866 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002176s ]
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000966s ]
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001157s ]
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000921s ]
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001099s ]
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined variable: menu f12c0a77906a0f355c95666536d66c0f.php 第 128 行.
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: loginUserName f12c0a77906a0f355c95666536d66c0f.php 第 198 行.
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.016296s ]
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016467s ]
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000867s ]
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000872s ]
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000613s ]
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001058s ]
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003885s ]
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001045s ]
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001265s ]
+[ 2012-08-22T13:51:29+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Run CheckRoute Behavior [ RunTime:0.001435s ]
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001696s ]
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001208s ]
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001435s ]
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Run LocationTemplate Behavior [ RunTime:0.001116s ]
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001345s ]
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Run ParseTemplate Behavior [ RunTime:0.010583s ]
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010818s ]
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Run ContentReplace Behavior [ RunTime:0.000733s ]
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Run TokenBuild Behavior [ RunTime:0.000880s ]
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000454s ]
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Run ShowRuntime Behavior [ RunTime:0.001609s ]
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004202s ]
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001750s ]
+[ 2012-08-22T13:51:31+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345614691690 | INFO: Tag[ view_end ] --END-- [ RunTime:0.001954s ]
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Run CheckRoute Behavior [ RunTime:0.001447s ]
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001753s ]
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000991s ]
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001180s ]
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Run LocationTemplate Behavior [ RunTime:0.001139s ]
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001348s ]
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Run ParseTemplate Behavior [ RunTime:0.012897s ]
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013084s ]
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Run ContentReplace Behavior [ RunTime:0.000723s ]
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Run TokenBuild Behavior [ RunTime:0.000888s ]
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000458s ]
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Run ShowRuntime Behavior [ RunTime:0.001257s ]
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003804s ]
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001859s ]
+[ 2012-08-22T13:57:47+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615067349 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002051s ]
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000843s ]
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001032s ]
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000804s ]
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.000989s ]
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined variable: menu f12c0a77906a0f355c95666536d66c0f.php 第 128 行.
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: loginUserName f12c0a77906a0f355c95666536d66c0f.php 第 198 行.
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.016119s ]
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016291s ]
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000719s ]
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000802s ]
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000452s ]
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000910s ]
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003353s ]
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000798s ]
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000978s ]
+[ 2012-08-22T13:57:49+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Run CheckRoute Behavior [ RunTime:0.001381s ]
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001662s ]
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001265s ]
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001500s ]
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Run LocationTemplate Behavior [ RunTime:0.000867s ]
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001062s ]
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Run ParseTemplate Behavior [ RunTime:0.219372s ]
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.219594s ]
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Run ContentReplace Behavior [ RunTime:0.000654s ]
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Run TokenBuild Behavior [ RunTime:0.000887s ]
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000441s ]
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Run ShowRuntime Behavior [ RunTime:0.001220s ]
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003694s ]
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001647s ]
+[ 2012-08-22T13:57:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615070474 | INFO: Tag[ view_end ] --END-- [ RunTime:0.001835s ]
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Run CheckRoute Behavior [ RunTime:0.001400s ]
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001705s ]
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000970s ]
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001168s ]
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Run LocationTemplate Behavior [ RunTime:0.000816s ]
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000997s ]
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Run ParseTemplate Behavior [ RunTime:0.013017s ]
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013206s ]
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Run ContentReplace Behavior [ RunTime:0.000658s ]
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Run TokenBuild Behavior [ RunTime:0.000849s ]
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000508s ]
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Run ShowRuntime Behavior [ RunTime:0.001236s ]
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003728s ]
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001857s ]
+[ 2012-08-22T13:58:28+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615108108 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002039s ]
+[ 2012-08-22T13:58:34+08:00 ] /dwz_thinkphp3/Admin/w_list.html | ERR: (ThinkException) 无法加载模块w_list.html
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Run CheckRoute Behavior [ RunTime:0.000933s ]
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001122s ]
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000813s ]
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000982s ]
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Run LocationTemplate Behavior [ RunTime:0.000793s ]
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000974s ]
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Run ParseTemplate Behavior [ RunTime:0.011445s ]
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011654s ]
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Run ContentReplace Behavior [ RunTime:0.000678s ]
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Run TokenBuild Behavior [ RunTime:0.000868s ]
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000431s ]
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Run ShowRuntime Behavior [ RunTime:0.001213s ]
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003668s ]
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001761s ]
+[ 2012-08-22T13:58:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615116295 | INFO: Tag[ view_end ] --END-- [ RunTime:0.001959s ]
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000941s ]
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001147s ]
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.001905s ]
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000198s ]
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000307s ]
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000990s ]
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001186s ]
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.015194s ]
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015393s ]
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000735s ]
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000796s ]
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000480s ]
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001034s ]
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003531s ]
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000895s ]
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001120s ]
+[ 2012-08-22T14:01:05+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Run CheckRoute Behavior [ RunTime:0.001291s ]
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001592s ]
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001224s ]
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001449s ]
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Run LocationTemplate Behavior [ RunTime:0.001234s ]
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001464s ]
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Run ParseTemplate Behavior [ RunTime:0.014148s ]
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014372s ]
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Run ContentReplace Behavior [ RunTime:0.000751s ]
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Run TokenBuild Behavior [ RunTime:0.000926s ]
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000483s ]
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Run ShowRuntime Behavior [ RunTime:0.001449s ]
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004168s ]
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001952s ]
+[ 2012-08-22T14:01:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345615267606 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002155s ]
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001408s ]
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001670s ]
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000875s ]
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001067s ]
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined variable: menu f12c0a77906a0f355c95666536d66c0f.php 第 128 行.
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: loginUserName f12c0a77906a0f355c95666536d66c0f.php 第 198 行.
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.017126s ]
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017305s ]
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000774s ]
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000814s ]
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000492s ]
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001006s ]
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003604s ]
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000849s ]
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001031s ]
+[ 2012-08-22T14:12:13+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Run CheckRoute Behavior [ RunTime:0.001165s ]
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001387s ]
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000978s ]
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001153s ]
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Run LocationTemplate Behavior [ RunTime:0.001155s ]
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001360s ]
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Run ParseTemplate Behavior [ RunTime:0.009264s ]
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009463s ]
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Run ContentReplace Behavior [ RunTime:0.000708s ]
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Run TokenBuild Behavior [ RunTime:0.001308s ]
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000892s ]
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Run ShowRuntime Behavior [ RunTime:0.001849s ]
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005411s ]
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002567s ]
+[ 2012-08-22T14:12:16+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345615936495 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002820s ]
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001415s ]
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001672s ]
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001465s ]
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001701s ]
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined variable: menu f12c0a77906a0f355c95666536d66c0f.php 第 128 行.
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: loginUserName f12c0a77906a0f355c95666536d66c0f.php 第 198 行.
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.018786s ]
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019022s ]
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001263s ]
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001326s ]
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000865s ]
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001543s ]
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005645s ]
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001202s ]
+[ 2012-08-22T14:13:27+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001434s ]
+[ 2012-08-22T14:13:28+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Run CheckRoute Behavior [ RunTime:0.001106s ]
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001301s ]
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001022s ]
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001187s ]
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Run LocationTemplate Behavior [ RunTime:0.000979s ]
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001161s ]
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Run ParseTemplate Behavior [ RunTime:0.365674s ]
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.365868s ]
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Run ContentReplace Behavior [ RunTime:0.000794s ]
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Run TokenBuild Behavior [ RunTime:0.000978s ]
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000579s ]
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Run ShowRuntime Behavior [ RunTime:0.001729s ]
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004593s ]
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002028s ]
+[ 2012-08-22T14:13:30+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616010069 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002236s ]
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000907s ]
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001097s ]
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000880s ]
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001071s ]
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined variable: menu f12c0a77906a0f355c95666536d66c0f.php 第 128 行.
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: loginUserName f12c0a77906a0f355c95666536d66c0f.php 第 198 行.
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.017674s ]
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017881s ]
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000972s ]
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000768s ]
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000456s ]
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001055s ]
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003757s ]
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000920s ]
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001157s ]
+[ 2012-08-22T14:17:23+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Run CheckRoute Behavior [ RunTime:0.001047s ]
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001246s ]
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000901s ]
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001072s ]
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Run LocationTemplate Behavior [ RunTime:0.000875s ]
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001059s ]
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Run ParseTemplate Behavior [ RunTime:0.015618s ]
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015811s ]
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Run ContentReplace Behavior [ RunTime:0.000689s ]
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Run TokenBuild Behavior [ RunTime:0.000958s ]
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000826s ]
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Run ShowRuntime Behavior [ RunTime:0.001919s ]
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005002s ]
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002619s ]
+[ 2012-08-22T14:17:26+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616245971 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002995s ]
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001477s ]
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001732s ]
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001446s ]
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001713s ]
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined variable: menu f12c0a77906a0f355c95666536d66c0f.php 第 128 行.
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: loginUserName f12c0a77906a0f355c95666536d66c0f.php 第 198 行.
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.017540s ]
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017745s ]
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000850s ]
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000907s ]
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000571s ]
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001036s ]
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003845s ]
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001124s ]
+[ 2012-08-22T14:18:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001359s ]
+[ 2012-08-22T14:18:16+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Run CheckRoute Behavior [ RunTime:0.001633s ]
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001888s ]
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001467s ]
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001749s ]
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Run LocationTemplate Behavior [ RunTime:0.001411s ]
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001662s ]
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Run ParseTemplate Behavior [ RunTime:0.016876s ]
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017121s ]
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Run ContentReplace Behavior [ RunTime:0.000905s ]
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Run TokenBuild Behavior [ RunTime:0.001019s ]
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000596s ]
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Run ShowRuntime Behavior [ RunTime:0.001390s ]
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004390s ]
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001969s ]
+[ 2012-08-22T14:18:18+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616298780 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002176s ]
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000997s ]
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001190s ]
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001092s ]
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001287s ]
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined variable: menu f12c0a77906a0f355c95666536d66c0f.php 第 128 行.
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: loginUserName f12c0a77906a0f355c95666536d66c0f.php 第 198 行.
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.016445s ]
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016630s ]
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000837s ]
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000891s ]
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000569s ]
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001035s ]
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003807s ]
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001055s ]
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001278s ]
+[ 2012-08-22T14:18:59+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Run CheckRoute Behavior [ RunTime:0.001660s ]
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001914s ]
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001360s ]
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001588s ]
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Run LocationTemplate Behavior [ RunTime:0.000950s ]
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001136s ]
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Run ParseTemplate Behavior [ RunTime:0.012828s ]
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013043s ]
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Run ContentReplace Behavior [ RunTime:0.000824s ]
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Run TokenBuild Behavior [ RunTime:0.001112s ]
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000622s ]
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Run ShowRuntime Behavior [ RunTime:0.001399s ]
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004448s ]
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001865s ]
+[ 2012-08-22T14:19:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616341579 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002068s ]
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000909s ]
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001095s ]
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001969s ]
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002211s ]
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined variable: menu f12c0a77906a0f355c95666536d66c0f.php 第 128 行.
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: loginUserName f12c0a77906a0f355c95666536d66c0f.php 第 198 行.
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.016127s ]
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016343s ]
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000754s ]
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000782s ]
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000514s ]
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001347s ]
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003887s ]
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001014s ]
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001244s ]
+[ 2012-08-22T14:21:51+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Run CheckRoute Behavior [ RunTime:0.001188s ]
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001424s ]
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001141s ]
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001396s ]
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Run LocationTemplate Behavior [ RunTime:0.000955s ]
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001150s ]
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Run ParseTemplate Behavior [ RunTime:0.012255s ]
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012450s ]
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Run ContentReplace Behavior [ RunTime:0.000734s ]
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Run TokenBuild Behavior [ RunTime:0.001112s ]
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000984s ]
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Run ShowRuntime Behavior [ RunTime:0.001408s ]
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004854s ]
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001967s ]
+[ 2012-08-22T14:21:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345616513792 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002200s ]
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Run CheckRoute Behavior [ RunTime:0.001156s ]
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001360s ]
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000974s ]
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001149s ]
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Run LocationTemplate Behavior [ RunTime:0.000839s ]
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001017s ]
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Run ParseTemplate Behavior [ RunTime:0.012014s ]
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012214s ]
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Run ContentReplace Behavior [ RunTime:0.000757s ]
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Run TokenBuild Behavior [ RunTime:0.000983s ]
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000510s ]
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Run ShowRuntime Behavior [ RunTime:0.001861s ]
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004599s ]
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002015s ]
+[ 2012-08-22T14:30:39+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617038989 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002213s ]
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001499s ]
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001753s ]
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002810s ]
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000232s ]
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000362s ]
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001477s ]
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001721s ]
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.020232s ]
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020479s ]
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001187s ]
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001327s ]
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000815s ]
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001454s ]
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005428s ]
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001048s ]
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001266s ]
+[ 2012-08-22T14:45:08+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T14:45:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T14:45:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Run CheckRoute Behavior [ RunTime:0.001551s ]
+[ 2012-08-22T14:45:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001815s ]
+[ 2012-08-22T14:45:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:45:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001413s ]
+[ 2012-08-22T14:45:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001633s ]
+[ 2012-08-22T14:45:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:45:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Run LocationTemplate Behavior [ RunTime:0.000977s ]
+[ 2012-08-22T14:45:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001203s ]
+[ 2012-08-22T14:45:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 69 行.
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 70 行.
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 71 行.
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 72 行.
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 73 行.
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 74 行.
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 75 行.
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | NOTIC: [8] Undefined variable: list 831cd46367a4747a640d706ed0500a79.php 第 79 行.
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Run ParseTemplate Behavior [ RunTime:0.028062s ]
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.028244s ]
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Run ContentReplace Behavior [ RunTime:0.000847s ]
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Run TokenBuild Behavior [ RunTime:0.000985s ]
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000589s ]
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Run ShowRuntime Behavior [ RunTime:0.001461s ]
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004401s ]
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001934s ]
+[ 2012-08-22T14:45:11+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345617910870 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002149s ]
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Run CheckRoute Behavior [ RunTime:0.001059s ]
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001244s ]
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001009s ]
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001177s ]
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Run LocationTemplate Behavior [ RunTime:0.000886s ]
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001063s ]
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Run ParseTemplate Behavior [ RunTime:0.011803s ]
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012050s ]
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Run ContentReplace Behavior [ RunTime:0.001168s ]
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Run TokenBuild Behavior [ RunTime:0.001576s ]
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000859s ]
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Run ShowRuntime Behavior [ RunTime:0.001925s ]
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006203s ]
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002665s ]
+[ 2012-08-22T14:45:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/insert_info?_=1345617915695 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002979s ]
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000863s ]
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001059s ]
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.001943s ]
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000310s ]
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000426s ]
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001384s ]
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001631s ]
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.020562s ]
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020771s ]
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001044s ]
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001156s ]
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000706s ]
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001399s ]
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004941s ]
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000830s ]
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001029s ]
+[ 2012-08-22T14:48:52+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Run CheckRoute Behavior [ RunTime:0.000995s ]
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001191s ]
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000897s ]
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001213s ]
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Run LocationTemplate Behavior [ RunTime:0.000857s ]
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001043s ]
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 69 行.
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 70 行.
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 71 行.
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 72 行.
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 73 行.
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 74 行.
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 75 行.
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | NOTIC: [8] Undefined variable: list 831cd46367a4747a640d706ed0500a79.php 第 79 行.
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Run ParseTemplate Behavior [ RunTime:0.022417s ]
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022621s ]
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Run ContentReplace Behavior [ RunTime:0.001039s ]
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Run TokenBuild Behavior [ RunTime:0.001284s ]
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000698s ]
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Run ShowRuntime Behavior [ RunTime:0.001789s ]
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005455s ]
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002549s ]
+[ 2012-08-22T14:48:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618134396 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002786s ]
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001065s ]
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001259s ]
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.001949s ]
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000218s ]
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000457s ]
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001524s ]
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001763s ]
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.022485s ]
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022700s ]
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000882s ]
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000936s ]
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000609s ]
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001040s ]
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003968s ]
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001096s ]
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001320s ]
+[ 2012-08-22T14:57:49+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Run CheckRoute Behavior [ RunTime:0.001613s ]
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001880s ]
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001420s ]
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001657s ]
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Run LocationTemplate Behavior [ RunTime:0.001385s ]
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001643s ]
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 69 行.
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 70 行.
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 71 行.
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 72 行.
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 73 行.
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 74 行.
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 75 行.
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | NOTIC: [8] Undefined variable: list 831cd46367a4747a640d706ed0500a79.php 第 79 行.
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | NOTIC: [8] Undefined variable: totalCount 831cd46367a4747a640d706ed0500a79.php 第 94 行.
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Run ParseTemplate Behavior [ RunTime:0.025023s ]
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.025343s ]
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Run ContentReplace Behavior [ RunTime:0.001141s ]
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Run TokenBuild Behavior [ RunTime:0.001425s ]
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000848s ]
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Run ShowRuntime Behavior [ RunTime:0.001908s ]
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005962s ]
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002638s ]
+[ 2012-08-22T14:57:53+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618673270 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002880s ]
+[ 2012-08-22T14:58:02+08:00 ] /dwz_thinkphp3/Admin/w_list.html | ERR: (ThinkException) 无法加载模块w_list.html
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Run CheckRoute Behavior [ RunTime:0.001019s ]
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001238s ]
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000885s ]
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001059s ]
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Run LocationTemplate Behavior [ RunTime:0.000824s ]
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001003s ]
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 69 行.
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 70 行.
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 71 行.
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 72 行.
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 73 行.
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 74 行.
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 75 行.
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | NOTIC: [8] Undefined variable: list 831cd46367a4747a640d706ed0500a79.php 第 79 行.
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | NOTIC: [8] Undefined variable: totalCount 831cd46367a4747a640d706ed0500a79.php 第 94 行.
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Run ParseTemplate Behavior [ RunTime:0.017299s ]
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017482s ]
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Run ContentReplace Behavior [ RunTime:0.000853s ]
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Run TokenBuild Behavior [ RunTime:0.001104s ]
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000812s ]
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Run ShowRuntime Behavior [ RunTime:0.001797s ]
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005157s ]
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001995s ]
+[ 2012-08-22T14:58:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618685269 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002191s ]
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000871s ]
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001058s ]
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002003s ]
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000252s ]
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000411s ]
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001353s ]
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001599s ]
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019155s ]
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019365s ]
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000774s ]
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000789s ]
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000520s ]
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000969s ]
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003521s ]
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001095s ]
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001337s ]
+[ 2012-08-22T14:58:49+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Run CheckRoute Behavior [ RunTime:0.000972s ]
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001169s ]
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000916s ]
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001094s ]
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Run LocationTemplate Behavior [ RunTime:0.000809s ]
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000988s ]
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 69 行.
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 70 行.
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 71 行.
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 72 行.
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 73 行.
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 74 行.
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 75 行.
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | NOTIC: [8] Undefined variable: list 831cd46367a4747a640d706ed0500a79.php 第 79 行.
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | NOTIC: [8] Undefined variable: totalCount 831cd46367a4747a640d706ed0500a79.php 第 94 行.
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | NOTIC: [8] Undefined variable: totalCount 831cd46367a4747a640d706ed0500a79.php 第 97 行.
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | NOTIC: [8] Undefined variable: numPerPage 831cd46367a4747a640d706ed0500a79.php 第 97 行.
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | NOTIC: [8] Undefined variable: currentPage 831cd46367a4747a640d706ed0500a79.php 第 97 行.
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Run ParseTemplate Behavior [ RunTime:0.021208s ]
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021383s ]
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Run ContentReplace Behavior [ RunTime:0.001033s ]
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Run TokenBuild Behavior [ RunTime:0.000955s ]
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000716s ]
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Run ShowRuntime Behavior [ RunTime:0.001507s ]
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004791s ]
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001722s ]
+[ 2012-08-22T14:58:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345618732620 | INFO: Tag[ view_end ] --END-- [ RunTime:0.001926s ]
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000959s ]
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001150s ]
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002568s ]
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000221s ]
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000359s ]
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001408s ]
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001656s ]
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.016532s ]
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016748s ]
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000776s ]
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001010s ]
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001027s ]
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001295s ]
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004777s ]
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000815s ]
+[ 2012-08-22T15:03:59+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001023s ]
+[ 2012-08-22T15:04:00+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Run CheckRoute Behavior [ RunTime:0.001388s ]
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001712s ]
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000987s ]
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001181s ]
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Run LocationTemplate Behavior [ RunTime:0.000925s ]
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001122s ]
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 3 行.
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | NOTIC: [8] Undefined index: _sort 831cd46367a4747a640d706ed0500a79.php 第 4 行.
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 50 行.
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 51 行.
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 52 行.
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 53 行.
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 54 行.
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 55 行.
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | NOTIC: [8] Undefined index: _order 831cd46367a4747a640d706ed0500a79.php 第 56 行.
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | NOTIC: [8] Undefined variable: list 831cd46367a4747a640d706ed0500a79.php 第 60 行.
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | NOTIC: [8] Undefined variable: totalCount 831cd46367a4747a640d706ed0500a79.php 第 75 行.
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | NOTIC: [8] Undefined variable: totalCount 831cd46367a4747a640d706ed0500a79.php 第 78 行.
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | NOTIC: [8] Undefined variable: numPerPage 831cd46367a4747a640d706ed0500a79.php 第 78 行.
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | NOTIC: [8] Undefined variable: currentPage 831cd46367a4747a640d706ed0500a79.php 第 78 行.
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Run ParseTemplate Behavior [ RunTime:0.021155s ]
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021337s ]
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Run ContentReplace Behavior [ RunTime:0.000765s ]
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Run TokenBuild Behavior [ RunTime:0.000909s ]
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000839s ]
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Run ShowRuntime Behavior [ RunTime:0.001949s ]
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005050s ]
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002519s ]
+[ 2012-08-22T15:04:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619042280 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002768s ]
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001225s ]
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001466s ]
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002161s ]
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000240s ]
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000402s ]
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001006s ]
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001179s ]
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.015653s ]
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015838s ]
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000909s ]
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001076s ]
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001055s ]
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001547s ]
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005176s ]
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001054s ]
+[ 2012-08-22T15:10:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001295s ]
+[ 2012-08-22T15:10:35+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T15:10:36+08:00 ] /dwz_thinkphp3/Admin/index.php/Chuanjiang/w_list?_=1345619436782 | ERR: (ThinkException) 无法加载模块Chuanjiang
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001267s ]
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001522s ]
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002001s ]
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000284s ]
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000433s ]
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001040s ]
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001255s ]
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.043849s ]
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.044038s ]
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000794s ]
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000790s ]
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000505s ]
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000964s ]
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003549s ]
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000990s ]
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001215s ]
+[ 2012-08-22T15:11:18+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Run CheckRoute Behavior [ RunTime:0.000999s ]
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001188s ]
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000942s ]
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001168s ]
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Run LocationTemplate Behavior [ RunTime:0.000953s ]
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001132s ]
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 3 行.
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | NOTIC: [8] Undefined index: _sort ad1a3621b66f3f526af438d3b2c95fa7.php 第 4 行.
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 50 行.
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 51 行.
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 52 行.
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 53 行.
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 54 行.
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 55 行.
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 56 行.
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | NOTIC: [8] Undefined variable: list ad1a3621b66f3f526af438d3b2c95fa7.php 第 60 行.
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | NOTIC: [8] Undefined variable: totalCount ad1a3621b66f3f526af438d3b2c95fa7.php 第 75 行.
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | NOTIC: [8] Undefined variable: totalCount ad1a3621b66f3f526af438d3b2c95fa7.php 第 78 行.
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | NOTIC: [8] Undefined variable: numPerPage ad1a3621b66f3f526af438d3b2c95fa7.php 第 78 行.
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | NOTIC: [8] Undefined variable: currentPage ad1a3621b66f3f526af438d3b2c95fa7.php 第 78 行.
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Run ParseTemplate Behavior [ RunTime:0.019132s ]
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019313s ]
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Run ContentReplace Behavior [ RunTime:0.000831s ]
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Run TokenBuild Behavior [ RunTime:0.000969s ]
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000538s ]
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Run ShowRuntime Behavior [ RunTime:0.001301s ]
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004126s ]
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001890s ]
+[ 2012-08-22T15:11:20+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619480380 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002127s ]
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Run CheckRoute Behavior [ RunTime:0.001102s ]
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001333s ]
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000995s ]
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001177s ]
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Run LocationTemplate Behavior [ RunTime:0.000851s ]
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001039s ]
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Run ParseTemplate Behavior [ RunTime:0.009107s ]
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009301s ]
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Run ContentReplace Behavior [ RunTime:0.000737s ]
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Run TokenBuild Behavior [ RunTime:0.001010s ]
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000491s ]
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Run ShowRuntime Behavior [ RunTime:0.001729s ]
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004447s ]
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001912s ]
+[ 2012-08-22T15:11:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/insert_info?_=1345619481449 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002130s ]
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000962s ]
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001162s ]
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002147s ]
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000289s ]
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000396s ]
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001004s ]
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001187s ]
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.017382s ]
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017561s ]
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000747s ]
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001125s ]
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000712s ]
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001315s ]
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004480s ]
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000884s ]
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001089s ]
+[ 2012-08-22T15:13:42+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Run CheckRoute Behavior [ RunTime:0.000975s ]
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001163s ]
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000878s ]
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001058s ]
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Run LocationTemplate Behavior [ RunTime:0.000820s ]
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001010s ]
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 3 行.
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | NOTIC: [8] Undefined index: _sort ad1a3621b66f3f526af438d3b2c95fa7.php 第 4 行.
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 50 行.
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 51 行.
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 52 行.
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 53 行.
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 54 行.
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 55 行.
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 56 行.
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | NOTIC: [8] Undefined variable: list ad1a3621b66f3f526af438d3b2c95fa7.php 第 60 行.
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | NOTIC: [8] Undefined variable: totalCount ad1a3621b66f3f526af438d3b2c95fa7.php 第 75 行.
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | NOTIC: [8] Undefined variable: totalCount ad1a3621b66f3f526af438d3b2c95fa7.php 第 78 行.
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | NOTIC: [8] Undefined variable: numPerPage ad1a3621b66f3f526af438d3b2c95fa7.php 第 78 行.
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | NOTIC: [8] Undefined variable: currentPage ad1a3621b66f3f526af438d3b2c95fa7.php 第 78 行.
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Run ParseTemplate Behavior [ RunTime:0.020796s ]
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020974s ]
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Run ContentReplace Behavior [ RunTime:0.000740s ]
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Run TokenBuild Behavior [ RunTime:0.001079s ]
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000687s ]
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Run ShowRuntime Behavior [ RunTime:0.001282s ]
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004327s ]
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001744s ]
+[ 2012-08-22T15:13:44+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619624064 | INFO: Tag[ view_end ] --END-- [ RunTime:0.001956s ]
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001027s ]
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001258s ]
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002028s ]
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000216s ]
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000325s ]
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001008s ]
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001196s ]
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.018481s ]
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018665s ]
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000760s ]
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000798s ]
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000489s ]
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000996s ]
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003514s ]
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000866s ]
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001088s ]
+[ 2012-08-22T15:14:34+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Run CheckRoute Behavior [ RunTime:0.000982s ]
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001173s ]
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000939s ]
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001118s ]
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Run LocationTemplate Behavior [ RunTime:0.000852s ]
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001039s ]
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 3 行.
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | NOTIC: [8] Undefined index: _sort ad1a3621b66f3f526af438d3b2c95fa7.php 第 4 行.
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 50 行.
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 51 行.
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 52 行.
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 53 行.
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 54 行.
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 55 行.
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 56 行.
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | NOTIC: [8] Undefined variable: list ad1a3621b66f3f526af438d3b2c95fa7.php 第 60 行.
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | NOTIC: [8] Undefined variable: totalCount ad1a3621b66f3f526af438d3b2c95fa7.php 第 75 行.
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | NOTIC: [8] Undefined variable: totalCount ad1a3621b66f3f526af438d3b2c95fa7.php 第 78 行.
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | NOTIC: [8] Undefined variable: numPerPage ad1a3621b66f3f526af438d3b2c95fa7.php 第 78 行.
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | NOTIC: [8] Undefined variable: currentPage ad1a3621b66f3f526af438d3b2c95fa7.php 第 78 行.
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Run ParseTemplate Behavior [ RunTime:0.021181s ]
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021374s ]
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Run ContentReplace Behavior [ RunTime:0.000915s ]
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Run TokenBuild Behavior [ RunTime:0.001223s ]
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000576s ]
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Run ShowRuntime Behavior [ RunTime:0.001375s ]
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004635s ]
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002688s ]
+[ 2012-08-22T15:14:37+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619677064 | INFO: Tag[ view_end ] --END-- [ RunTime:0.003015s ]
+[ 2012-08-22T15:14:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T15:14:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000886s ]
+[ 2012-08-22T15:14:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001070s ]
+[ 2012-08-22T15:14:51+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002009s ]
+[ 2012-08-22T15:14:51+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000233s ]
+[ 2012-08-22T15:14:51+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000302s ]
+[ 2012-08-22T15:14:51+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T15:14:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T15:14:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.000891s ]
+[ 2012-08-22T15:14:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001079s ]
+[ 2012-08-22T15:14:51+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T15:14:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.015672s ]
+[ 2012-08-22T15:14:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015849s ]
+[ 2012-08-22T15:14:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T15:14:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000814s ]
+[ 2012-08-22T15:14:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000814s ]
+[ 2012-08-22T15:14:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000472s ]
+[ 2012-08-22T15:14:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000970s ]
+[ 2012-08-22T15:14:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003637s ]
+[ 2012-08-22T15:14:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T15:14:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000815s ]
+[ 2012-08-22T15:14:52+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001032s ]
+[ 2012-08-22T15:14:52+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Run CheckRoute Behavior [ RunTime:0.001229s ]
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001512s ]
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001174s ]
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001382s ]
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Run LocationTemplate Behavior [ RunTime:0.000887s ]
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001103s ]
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 3 行.
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | NOTIC: [8] Undefined index: _sort ad1a3621b66f3f526af438d3b2c95fa7.php 第 4 行.
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 50 行.
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 51 行.
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 52 行.
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 53 行.
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 54 行.
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 55 行.
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 56 行.
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | NOTIC: [8] Undefined variable: list ad1a3621b66f3f526af438d3b2c95fa7.php 第 60 行.
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | NOTIC: [8] Undefined variable: totalCount ad1a3621b66f3f526af438d3b2c95fa7.php 第 75 行.
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | NOTIC: [8] Undefined variable: totalCount ad1a3621b66f3f526af438d3b2c95fa7.php 第 78 行.
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | NOTIC: [8] Undefined variable: numPerPage ad1a3621b66f3f526af438d3b2c95fa7.php 第 78 行.
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | NOTIC: [8] Undefined variable: currentPage ad1a3621b66f3f526af438d3b2c95fa7.php 第 78 行.
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Run ParseTemplate Behavior [ RunTime:0.022726s ]
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022945s ]
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Run ContentReplace Behavior [ RunTime:0.001057s ]
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Run TokenBuild Behavior [ RunTime:0.001393s ]
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000742s ]
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Run ShowRuntime Behavior [ RunTime:0.001833s ]
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005671s ]
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Run ShowPageTrace Behavior [ RunTime:0.003282s ]
+[ 2012-08-22T15:14:54+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619693916 | INFO: Tag[ view_end ] --END-- [ RunTime:0.003656s ]
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001011s ]
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001207s ]
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.019115s ]
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000258s ]
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000407s ]
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001560s ]
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001804s ]
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.022647s ]
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022896s ]
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001172s ]
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001168s ]
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000739s ]
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001366s ]
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005067s ]
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001150s ]
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001383s ]
+[ 2012-08-22T15:15:15+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Run CheckRoute Behavior [ RunTime:0.001736s ]
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001995s ]
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001520s ]
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001760s ]
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Run LocationTemplate Behavior [ RunTime:0.001420s ]
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001673s ]
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 3 行.
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | NOTIC: [8] Undefined index: _sort ad1a3621b66f3f526af438d3b2c95fa7.php 第 4 行.
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 50 行.
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 51 行.
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 52 行.
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 53 行.
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 54 行.
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 55 行.
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | NOTIC: [8] Undefined index: _order ad1a3621b66f3f526af438d3b2c95fa7.php 第 56 行.
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | NOTIC: [8] Undefined variable: list ad1a3621b66f3f526af438d3b2c95fa7.php 第 60 行.
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | NOTIC: [8] Undefined variable: totalCount ad1a3621b66f3f526af438d3b2c95fa7.php 第 75 行.
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | NOTIC: [8] Undefined variable: totalCount ad1a3621b66f3f526af438d3b2c95fa7.php 第 78 行.
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | NOTIC: [8] Undefined variable: numPerPage ad1a3621b66f3f526af438d3b2c95fa7.php 第 78 行.
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | NOTIC: [8] Undefined variable: currentPage ad1a3621b66f3f526af438d3b2c95fa7.php 第 78 行.
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Run ParseTemplate Behavior [ RunTime:0.026937s ]
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.027178s ]
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Run ContentReplace Behavior [ RunTime:0.001197s ]
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Run TokenBuild Behavior [ RunTime:0.001443s ]
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000872s ]
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Run ShowRuntime Behavior [ RunTime:0.001971s ]
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006158s ]
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002588s ]
+[ 2012-08-22T15:15:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/w_list?_=1345619717716 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002830s ]

@@ -47,11 +47,11 @@
 	<table class="list" width="100%" targetType="navTab" >
 		<thead>
 			<tr>
-				<th width="100" orderField="cpro" <?php if($_REQUEST["_order"] == 'cpro'): ?>class="<?php echo ($_REQUEST["_sort"]); ?>"<?php endif; ?>>产品线</th>
-				<th orderField="pname" <?php if($_REQUEST["_order"] == 'pname'): ?>class="<?php echo ($_REQUEST["_sort"]); ?>"<?php endif; ?>>姓名</th>
-				<th orderField="corg" <?php if($_REQUEST["_order"] == 'corg'): ?>class="<?php echo ($_REQUEST["_sort"]); ?>"<?php endif; ?>>所在组</th>
-				<th width="100" orderField="cname" <?php if($_REQUEST["_order"] == 'cname'): ?>class="<?php echo ($_REQUEST["_sort"]); ?>"<?php endif; ?>>内容</th>
-				<th width="120" orderField="cplace" <?php if($_REQUEST["_order"] == 'cplace'): ?>class="<?php echo ($_REQUEST["_sort"]); ?>"<?php endif; ?>>地点</th>
+				<th width="50" orderField="cpro" <?php if($_REQUEST["_order"] == 'cpro'): ?>class="<?php echo ($_REQUEST["_sort"]); ?>"<?php endif; ?>>产品线</th>
+				<th width="40" orderField="pname" <?php if($_REQUEST["_order"] == 'pname'): ?>class="<?php echo ($_REQUEST["_sort"]); ?>"<?php endif; ?>>姓名</th>
+				<th width="50" orderField="corg" <?php if($_REQUEST["_order"] == 'corg'): ?>class="<?php echo ($_REQUEST["_sort"]); ?>"<?php endif; ?>>所在组</th>
+				<th            orderField="cname" <?php if($_REQUEST["_order"] == 'cname'): ?>class="<?php echo ($_REQUEST["_sort"]); ?>"<?php endif; ?>>内容</th>
+				<th width="60" orderField="cplace" <?php if($_REQUEST["_order"] == 'cplace'): ?>class="<?php echo ($_REQUEST["_sort"]); ?>"<?php endif; ?>>地点</th>
 				<th width="80" orderField="ctime" <?php if($_REQUEST["_order"] == 'ctime'): ?>class="<?php echo ($_REQUEST["_sort"]); ?>"<?php endif; ?>>评价</th>
 				<th width="80" orderField="ctime" <?php if($_REQUEST["_order"] == 'ctime'): ?>class="<?php echo ($_REQUEST["_sort"]); ?>"<?php endif; ?>>日期</th>
 			</tr>
