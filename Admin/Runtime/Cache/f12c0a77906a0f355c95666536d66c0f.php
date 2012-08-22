@@ -157,7 +157,7 @@ $(function(){
 							<li><a>串讲信息</a>
 								<ul>
 									<li><a href="__APP__/Course/index" target="navTab" rel="chuanjiang">串讲汇总</a></li>
-									<li><a href="__APP__/Course/insert_info" target="navTab" rel="page4" fresh="false">串讲信息录入</a></li>
+									<li><a href="__APP__/Course/add" target="navTab" rel="page4" fresh="false">串讲信息录入</a></li>
 								</ul>
 							</li>
 
@@ -171,6 +171,7 @@ $(function(){
 					</div>
 				</div>
 			</div>
+			
 		</div>
 
 		<div id="container">
