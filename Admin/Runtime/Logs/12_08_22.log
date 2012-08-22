@@ -4688,3 +4688,1212 @@
 [ 2012-08-22T17:49:09+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/index/id/14?_=1345628949637 | INFO: Tag[ view_end ] --START--
 [ 2012-08-22T17:49:09+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/index/id/14?_=1345628949637 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001900s ]
 [ 2012-08-22T17:49:09+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/index/id/14?_=1345628949637 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002127s ]
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001018s ]
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001226s ]
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002298s ]
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000263s ]
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000406s ]
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000992s ]
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001174s ]
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.016679s ]
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016864s ]
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000815s ]
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run TokenBuild Behavior [ RunTime:0.000823s ]
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000512s ]
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000949s ]
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003596s ]
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.000981s ]
+[ 2012-08-22T18:55:59+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.001205s ]
+[ 2012-08-22T18:56:00+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Run CheckRoute Behavior [ RunTime:0.001339s ]
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001596s ]
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001299s ]
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001532s ]
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.002464s ]
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.012304s ]
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | SQL: SELECT COUNT(id) AS tp_count FROM `course` LIMIT 1   [ RunTime:0.000288s ]
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | SQL: SELECT * FROM `course` ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000323s ]
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Run LocationTemplate Behavior [ RunTime:0.001276s ]
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001516s ]
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 3 行.
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | NOTIC: [8] Undefined index: _sort 8e20033806df2222c944c134d50f6ac8.php 第 4 行.
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 48 行.
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 49 行.
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 50 行.
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 51 行.
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 52 行.
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 53 行.
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 54 行.
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | NOTIC: [8] A non well formed numeric value encountered 8e20033806df2222c944c134d50f6ac8.php 第 65 行.
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Run ParseTemplate Behavior [ RunTime:0.022541s ]
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022787s ]
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Run ContentReplace Behavior [ RunTime:0.000817s ]
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Run TokenBuild Behavior [ RunTime:0.000959s ]
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000602s ]
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Run ShowRuntime Behavior [ RunTime:0.001344s ]
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004269s ]
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001882s ]
+[ 2012-08-22T18:56:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345632963618 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002100s ]
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Run CheckRoute Behavior [ RunTime:0.000954s ]
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001136s ]
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000820s ]
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000980s ]
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | SQL: SHOW COLUMNS FROM `pingjia` [ RunTime:0.001962s ]
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | SQL: SELECT * FROM `pingjia` WHERE ( `id` = '14' ) LIMIT 1   [ RunTime:0.000312s ]
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Run LocationTemplate Behavior [ RunTime:0.000881s ]
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001065s ]
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Run ParseTemplate Behavior [ RunTime:0.010916s ]
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011118s ]
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Run ContentReplace Behavior [ RunTime:0.000800s ]
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Run TokenBuild Behavior [ RunTime:0.000918s ]
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000552s ]
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Run ShowRuntime Behavior [ RunTime:0.001238s ]
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003984s ]
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001808s ]
+[ 2012-08-22T18:56:07+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345632966867 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002019s ]
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001094s ]
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001302s ]
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002681s ]
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000231s ]
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000306s ]
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000906s ]
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001083s ]
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.016241s ]
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016421s ]
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000778s ]
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run TokenBuild Behavior [ RunTime:0.000795s ]
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000488s ]
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000937s ]
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003478s ]
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.000976s ]
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.001210s ]
+[ 2012-08-22T18:57:04+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Run CheckRoute Behavior [ RunTime:0.000957s ]
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001146s ]
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000844s ]
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001021s ]
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.002316s ]
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.002128s ]
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | SQL: SELECT COUNT(id) AS tp_count FROM `course` LIMIT 1   [ RunTime:0.000302s ]
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | SQL: SELECT * FROM `course` ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000309s ]
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Run LocationTemplate Behavior [ RunTime:0.000928s ]
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001100s ]
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 3 行.
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | NOTIC: [8] Undefined index: _sort 8e20033806df2222c944c134d50f6ac8.php 第 4 行.
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 48 行.
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 49 行.
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 50 行.
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 51 行.
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 52 行.
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 53 行.
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 54 行.
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | NOTIC: [8] A non well formed numeric value encountered 8e20033806df2222c944c134d50f6ac8.php 第 65 行.
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Run ParseTemplate Behavior [ RunTime:0.021493s ]
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021692s ]
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Run ContentReplace Behavior [ RunTime:0.000836s ]
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Run TokenBuild Behavior [ RunTime:0.000942s ]
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000534s ]
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Run ShowRuntime Behavior [ RunTime:0.001398s ]
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004249s ]
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001744s ]
+[ 2012-08-22T18:57:08+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633028039 | INFO: Tag[ view_end ] --END-- [ RunTime:0.001946s ]
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Run CheckRoute Behavior [ RunTime:0.000971s ]
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001157s ]
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001067s ]
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001277s ]
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Run LocationTemplate Behavior [ RunTime:0.000747s ]
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000927s ]
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Run ParseTemplate Behavior [ RunTime:0.010945s ]
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011145s ]
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Run ContentReplace Behavior [ RunTime:0.000698s ]
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Run TokenBuild Behavior [ RunTime:0.000900s ]
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000505s ]
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Run ShowRuntime Behavior [ RunTime:0.001285s ]
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003882s ]
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001988s ]
+[ 2012-08-22T18:57:10+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633030224 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002194s ]
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001382s ]
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001621s ]
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.001966s ]
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000230s ]
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000464s ]
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001182s ]
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.018064s ]
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018250s ]
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000823s ]
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run TokenBuild Behavior [ RunTime:0.000926s ]
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000552s ]
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000987s ]
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003857s ]
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.000995s ]
+[ 2012-08-22T19:00:28+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.001218s ]
+[ 2012-08-22T19:00:29+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Run CheckRoute Behavior [ RunTime:0.001231s ]
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001439s ]
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001035s ]
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001232s ]
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.002461s ]
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.001918s ]
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | SQL: SELECT COUNT(id) AS tp_count FROM `course` LIMIT 1   [ RunTime:0.000295s ]
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | SQL: SELECT * FROM `course` ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000317s ]
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Run LocationTemplate Behavior [ RunTime:0.000917s ]
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001096s ]
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 3 行.
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | NOTIC: [8] Undefined index: _sort 8e20033806df2222c944c134d50f6ac8.php 第 4 行.
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 48 行.
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 49 行.
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 50 行.
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 51 行.
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 52 行.
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 53 行.
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 54 行.
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | NOTIC: [8] A non well formed numeric value encountered 8e20033806df2222c944c134d50f6ac8.php 第 65 行.
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Run ParseTemplate Behavior [ RunTime:0.018734s ]
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018897s ]
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Run ContentReplace Behavior [ RunTime:0.000686s ]
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Run TokenBuild Behavior [ RunTime:0.000901s ]
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000480s ]
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Run ShowRuntime Behavior [ RunTime:0.001208s ]
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003727s ]
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001708s ]
+[ 2012-08-22T19:00:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633232438 | INFO: Tag[ view_end ] --END-- [ RunTime:0.001915s ]
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Run CheckRoute Behavior [ RunTime:0.000998s ]
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001193s ]
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000907s ]
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001087s ]
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Run LocationTemplate Behavior [ RunTime:0.000822s ]
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001005s ]
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Run ParseTemplate Behavior [ RunTime:0.011369s ]
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011600s ]
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Run ContentReplace Behavior [ RunTime:0.000969s ]
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Run TokenBuild Behavior [ RunTime:0.001276s ]
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000739s ]
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Run ShowRuntime Behavior [ RunTime:0.001459s ]
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005037s ]
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002155s ]
+[ 2012-08-22T19:00:34+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633234616 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002395s ]
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000908s ]
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001098s ]
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002522s ]
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000299s ]
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000369s ]
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.000937s ]
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001102s ]
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.015382s ]
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015566s ]
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000773s ]
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run TokenBuild Behavior [ RunTime:0.001592s ]
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000744s ]
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000980s ]
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004699s ]
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.001540s ]
+[ 2012-08-22T19:01:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.001751s ]
+[ 2012-08-22T19:01:10+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Run CheckRoute Behavior [ RunTime:0.001004s ]
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001220s ]
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000911s ]
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001091s ]
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.002582s ]
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.001902s ]
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | SQL: SELECT COUNT(id) AS tp_count FROM `course` LIMIT 1   [ RunTime:0.000289s ]
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | SQL: SELECT * FROM `course` ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000349s ]
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Run LocationTemplate Behavior [ RunTime:0.000883s ]
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001058s ]
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 3 行.
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | NOTIC: [8] Undefined index: _sort 8e20033806df2222c944c134d50f6ac8.php 第 4 行.
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 48 行.
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 49 行.
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 50 行.
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 51 行.
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 52 行.
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 53 行.
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 54 行.
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | NOTIC: [8] A non well formed numeric value encountered 8e20033806df2222c944c134d50f6ac8.php 第 65 行.
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Run ParseTemplate Behavior [ RunTime:0.022546s ]
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022733s ]
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Run ContentReplace Behavior [ RunTime:0.000753s ]
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Run TokenBuild Behavior [ RunTime:0.001130s ]
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000753s ]
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Run ShowRuntime Behavior [ RunTime:0.001830s ]
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005071s ]
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002479s ]
+[ 2012-08-22T19:01:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633273239 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002725s ]
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Run CheckRoute Behavior [ RunTime:0.001039s ]
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001233s ]
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001492s ]
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001742s ]
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Run LocationTemplate Behavior [ RunTime:0.001157s ]
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001412s ]
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Run ParseTemplate Behavior [ RunTime:0.014831s ]
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015087s ]
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Run ContentReplace Behavior [ RunTime:0.000949s ]
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Run TokenBuild Behavior [ RunTime:0.001224s ]
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000674s ]
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Run ShowRuntime Behavior [ RunTime:0.001507s ]
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004967s ]
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001974s ]
+[ 2012-08-22T19:01:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633275397 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002190s ]
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001259s ]
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001513s ]
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002165s ]
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000298s ]
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000403s ]
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001257s ]
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001491s ]
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.017469s ]
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017671s ]
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000855s ]
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run TokenBuild Behavior [ RunTime:0.000854s ]
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000495s ]
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000976s ]
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003690s ]
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.001037s ]
+[ 2012-08-22T19:02:09+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.001272s ]
+[ 2012-08-22T19:02:10+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Run CheckRoute Behavior [ RunTime:0.001256s ]
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001430s ]
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001269s ]
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001498s ]
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.002498s ]
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.002490s ]
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | SQL: SELECT COUNT(id) AS tp_count FROM `course` LIMIT 1   [ RunTime:0.000283s ]
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | SQL: SELECT * FROM `course` ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000378s ]
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Run LocationTemplate Behavior [ RunTime:0.001292s ]
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001532s ]
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 3 行.
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | NOTIC: [8] Undefined index: _sort 8e20033806df2222c944c134d50f6ac8.php 第 4 行.
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 48 行.
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 49 行.
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 50 行.
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 51 行.
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 52 行.
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 53 行.
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 54 行.
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | NOTIC: [8] A non well formed numeric value encountered 8e20033806df2222c944c134d50f6ac8.php 第 65 行.
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Run ParseTemplate Behavior [ RunTime:0.023999s ]
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024244s ]
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Run ContentReplace Behavior [ RunTime:0.000828s ]
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Run TokenBuild Behavior [ RunTime:0.000906s ]
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000505s ]
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Run ShowRuntime Behavior [ RunTime:0.001338s ]
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004076s ]
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001754s ]
+[ 2012-08-22T19:02:13+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633332945 | INFO: Tag[ view_end ] --END-- [ RunTime:0.001958s ]
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Run CheckRoute Behavior [ RunTime:0.001031s ]
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001257s ]
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000905s ]
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001088s ]
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Run LocationTemplate Behavior [ RunTime:0.000774s ]
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000968s ]
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Run ParseTemplate Behavior [ RunTime:0.008661s ]
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008977s ]
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Run ContentReplace Behavior [ RunTime:0.000649s ]
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Run TokenBuild Behavior [ RunTime:0.000885s ]
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000585s ]
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Run ShowRuntime Behavior [ RunTime:0.001294s ]
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003906s ]
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001829s ]
+[ 2012-08-22T19:02:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633334809 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002041s ]
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Run CheckRoute Behavior [ RunTime:0.001041s ]
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001235s ]
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000929s ]
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001117s ]
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Run LocationTemplate Behavior [ RunTime:0.000887s ]
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001084s ]
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Run ParseTemplate Behavior [ RunTime:0.011208s ]
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011402s ]
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Run ContentReplace Behavior [ RunTime:0.000702s ]
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Run TokenBuild Behavior [ RunTime:0.000895s ]
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000479s ]
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Run ShowRuntime Behavior [ RunTime:0.001245s ]
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003802s ]
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001729s ]
+[ 2012-08-22T19:04:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633472466 | INFO: Tag[ view_end ] --END-- [ RunTime:0.001929s ]
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Run CheckRoute Behavior [ RunTime:0.001201s ]
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001402s ]
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001005s ]
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001180s ]
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Run LocationTemplate Behavior [ RunTime:0.000975s ]
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001177s ]
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Run ParseTemplate Behavior [ RunTime:0.009505s ]
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009696s ]
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Run ContentReplace Behavior [ RunTime:0.000861s ]
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Run TokenBuild Behavior [ RunTime:0.000986s ]
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000559s ]
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Run ShowRuntime Behavior [ RunTime:0.001367s ]
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004256s ]
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001842s ]
+[ 2012-08-22T19:05:21+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633521596 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002093s ]
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Run CheckRoute Behavior [ RunTime:0.001075s ]
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001266s ]
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000930s ]
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001102s ]
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Run LocationTemplate Behavior [ RunTime:0.001246s ]
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001477s ]
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Run ParseTemplate Behavior [ RunTime:0.011627s ]
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011839s ]
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Run ContentReplace Behavior [ RunTime:0.000759s ]
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Run TokenBuild Behavior [ RunTime:0.001022s ]
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000638s ]
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Run ShowRuntime Behavior [ RunTime:0.001385s ]
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004301s ]
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001911s ]
+[ 2012-08-22T19:08:03+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/14?_=1345633683152 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002158s ]
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001049s ]
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001250s ]
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002231s ]
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000245s ]
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000337s ]
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001031s ]
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001199s ]
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.017104s ]
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017294s ]
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000862s ]
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run TokenBuild Behavior [ RunTime:0.000974s ]
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000564s ]
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001048s ]
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003968s ]
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.001054s ]
+[ 2012-08-22T19:10:52+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.001237s ]
+[ 2012-08-22T19:10:53+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Run CheckRoute Behavior [ RunTime:0.001120s ]
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001307s ]
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000952s ]
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001130s ]
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Run LocationTemplate Behavior [ RunTime:0.001086s ]
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001372s ]
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Run ParseTemplate Behavior [ RunTime:0.009565s ]
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009757s ]
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Run ContentReplace Behavior [ RunTime:0.000799s ]
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Run TokenBuild Behavior [ RunTime:0.001101s ]
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000555s ]
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Run ShowRuntime Behavior [ RunTime:0.001654s ]
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004595s ]
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001979s ]
+[ 2012-08-22T19:10:57+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/add?_=1345633857553 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002204s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Run CheckRoute Behavior [ RunTime:0.001034s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001229s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001005s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001176s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.002035s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.001790s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | SQL: SELECT COUNT(id) AS tp_count FROM `course` LIMIT 1   [ RunTime:0.000290s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | SQL: SELECT * FROM `course` ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000326s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Run LocationTemplate Behavior [ RunTime:0.000976s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001217s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 3 行.
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | NOTIC: [8] Undefined index: _sort 8e20033806df2222c944c134d50f6ac8.php 第 4 行.
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 48 行.
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 49 行.
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 50 行.
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 51 行.
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 52 行.
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 53 行.
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 54 行.
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | NOTIC: [8] A non well formed numeric value encountered 8e20033806df2222c944c134d50f6ac8.php 第 65 行.
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Run ParseTemplate Behavior [ RunTime:0.019505s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019687s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Run ContentReplace Behavior [ RunTime:0.001128s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Run TokenBuild Behavior [ RunTime:0.001481s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000801s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Run ShowRuntime Behavior [ RunTime:0.001463s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005479s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001842s ]
+[ 2012-08-22T19:11:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345633861994 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002053s ]
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Run CheckRoute Behavior [ RunTime:0.001074s ]
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001266s ]
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001029s ]
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001212s ]
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | SQL: SHOW COLUMNS FROM `pingjia` [ RunTime:0.002622s ]
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | SQL: SELECT * FROM `pingjia` WHERE ( `id` = '12' ) LIMIT 1   [ RunTime:0.000339s ]
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Run LocationTemplate Behavior [ RunTime:0.001099s ]
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001285s ]
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Run ParseTemplate Behavior [ RunTime:0.011790s ]
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011976s ]
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Run ContentReplace Behavior [ RunTime:0.000781s ]
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Run TokenBuild Behavior [ RunTime:0.001008s ]
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000564s ]
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Run ShowRuntime Behavior [ RunTime:0.001417s ]
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004308s ]
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001968s ]
+[ 2012-08-22T19:11:04+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/add/id/12?_=1345633864471 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002178s ]
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001035s ]
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001234s ]
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002084s ]
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000306s ]
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000465s ]
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001402s ]
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001637s ]
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.019004s ]
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019217s ]
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000855s ]
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run TokenBuild Behavior [ RunTime:0.001190s ]
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000574s ]
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000995s ]
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004150s ]
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.000818s ]
+[ 2012-08-22T19:13:47+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.001029s ]
+[ 2012-08-22T19:13:48+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Run CheckRoute Behavior [ RunTime:0.001110s ]
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001303s ]
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000910s ]
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001090s ]
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.002037s ]
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.002120s ]
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | SQL: SELECT COUNT(id) AS tp_count FROM `course` LIMIT 1   [ RunTime:0.000334s ]
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | SQL: SELECT * FROM `course` ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000313s ]
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Run LocationTemplate Behavior [ RunTime:0.000924s ]
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001102s ]
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 3 行.
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | NOTIC: [8] Undefined index: _sort 8e20033806df2222c944c134d50f6ac8.php 第 4 行.
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 48 行.
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 49 行.
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 50 行.
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 51 行.
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 52 行.
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 53 行.
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 54 行.
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | NOTIC: [8] A non well formed numeric value encountered 8e20033806df2222c944c134d50f6ac8.php 第 65 行.
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Run ParseTemplate Behavior [ RunTime:0.025059s ]
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.025238s ]
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Run ContentReplace Behavior [ RunTime:0.000919s ]
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Run TokenBuild Behavior [ RunTime:0.001034s ]
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000519s ]
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Run ShowRuntime Behavior [ RunTime:0.001415s ]
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004419s ]
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001923s ]
+[ 2012-08-22T19:13:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634031754 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002259s ]
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Run CheckRoute Behavior [ RunTime:0.001473s ]
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001679s ]
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001016s ]
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001196s ]
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | SQL: SHOW COLUMNS FROM `pingjia` [ RunTime:0.002439s ]
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | SQL: SELECT * FROM `pingjia` WHERE ( `id` = '14' ) LIMIT 1   [ RunTime:0.000293s ]
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Run LocationTemplate Behavior [ RunTime:0.001470s ]
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001701s ]
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Run ParseTemplate Behavior [ RunTime:0.012769s ]
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013025s ]
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Run ContentReplace Behavior [ RunTime:0.001148s ]
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Run TokenBuild Behavior [ RunTime:0.001462s ]
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000843s ]
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Run ShowRuntime Behavior [ RunTime:0.001957s ]
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006069s ]
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002682s ]
+[ 2012-08-22T19:13:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634039008 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002918s ]
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Run CheckRoute Behavior [ RunTime:0.000977s ]
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001172s ]
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000867s ]
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001060s ]
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | SQL: SHOW COLUMNS FROM `pingjia` [ RunTime:0.001948s ]
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | SQL: SELECT * FROM `pingjia` WHERE ( `id` = '14' ) LIMIT 1   [ RunTime:0.000344s ]
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Run LocationTemplate Behavior [ RunTime:0.000892s ]
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001087s ]
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Run ParseTemplate Behavior [ RunTime:0.008397s ]
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008601s ]
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Run ContentReplace Behavior [ RunTime:0.000860s ]
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Run TokenBuild Behavior [ RunTime:0.001210s ]
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000516s ]
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Run ShowRuntime Behavior [ RunTime:0.001304s ]
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004439s ]
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001886s ]
+[ 2012-08-22T19:14:52+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634092248 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002087s ]
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000849s ]
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001042s ]
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002523s ]
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000239s ]
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000403s ]
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001292s ]
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001535s ]
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.017603s ]
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017819s ]
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000796s ]
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run TokenBuild Behavior [ RunTime:0.000800s ]
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000492s ]
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.000972s ]
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003537s ]
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.001016s ]
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.001240s ]
+[ 2012-08-22T19:14:55+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Run CheckRoute Behavior [ RunTime:0.000980s ]
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001173s ]
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000894s ]
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001069s ]
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.002597s ]
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.002370s ]
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | SQL: SELECT COUNT(id) AS tp_count FROM `course` LIMIT 1   [ RunTime:0.000345s ]
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | SQL: SELECT * FROM `course` ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000312s ]
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Run LocationTemplate Behavior [ RunTime:0.001275s ]
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001516s ]
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 3 行.
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | NOTIC: [8] Undefined index: _sort 8e20033806df2222c944c134d50f6ac8.php 第 4 行.
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 48 行.
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 49 行.
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 50 行.
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 51 行.
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 52 行.
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 53 行.
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 54 行.
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | NOTIC: [8] A non well formed numeric value encountered 8e20033806df2222c944c134d50f6ac8.php 第 65 行.
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Run ParseTemplate Behavior [ RunTime:0.019829s ]
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020041s ]
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Run ContentReplace Behavior [ RunTime:0.000747s ]
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Run TokenBuild Behavior [ RunTime:0.000990s ]
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000642s ]
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Run ShowRuntime Behavior [ RunTime:0.001498s ]
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004432s ]
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001805s ]
+[ 2012-08-22T19:14:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634099432 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002051s ]
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Run CheckRoute Behavior [ RunTime:0.001021s ]
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001212s ]
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000906s ]
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001087s ]
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | SQL: SHOW COLUMNS FROM `pingjia` [ RunTime:0.002577s ]
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | SQL: SELECT * FROM `pingjia` WHERE ( `id` = '14' ) LIMIT 1   [ RunTime:0.000320s ]
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Run LocationTemplate Behavior [ RunTime:0.001209s ]
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001447s ]
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Run ParseTemplate Behavior [ RunTime:0.009444s ]
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009655s ]
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Run ContentReplace Behavior [ RunTime:0.000722s ]
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Run TokenBuild Behavior [ RunTime:0.001179s ]
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000535s ]
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Run ShowRuntime Behavior [ RunTime:0.001363s ]
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004350s ]
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001906s ]
+[ 2012-08-22T19:15:01+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634101447 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002106s ]
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001103s ]
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001305s ]
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002005s ]
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000239s ]
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000381s ]
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001108s ]
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001289s ]
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.022391s ]
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022660s ]
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ContentReplace Behavior [ RunTime:0.001196s ]
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run TokenBuild Behavior [ RunTime:0.001215s ]
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000808s ]
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001473s ]
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005322s ]
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.000914s ]
+[ 2012-08-22T19:15:41+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.001089s ]
+[ 2012-08-22T19:15:42+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Run CheckRoute Behavior [ RunTime:0.001047s ]
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001233s ]
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001289s ]
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001517s ]
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.002003s ]
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.002028s ]
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | SQL: SELECT COUNT(id) AS tp_count FROM `course` LIMIT 1   [ RunTime:0.000341s ]
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | SQL: SELECT * FROM `course` ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000364s ]
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Run LocationTemplate Behavior [ RunTime:0.001019s ]
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001200s ]
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 3 行.
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | NOTIC: [8] Undefined index: _sort 8e20033806df2222c944c134d50f6ac8.php 第 4 行.
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 48 行.
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 49 行.
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 50 行.
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 51 行.
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 52 行.
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 53 行.
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 54 行.
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | NOTIC: [8] A non well formed numeric value encountered 8e20033806df2222c944c134d50f6ac8.php 第 65 行.
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Run ParseTemplate Behavior [ RunTime:0.019318s ]
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019499s ]
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Run ContentReplace Behavior [ RunTime:0.000827s ]
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Run TokenBuild Behavior [ RunTime:0.001015s ]
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000604s ]
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Run ShowRuntime Behavior [ RunTime:0.001465s ]
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004450s ]
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001987s ]
+[ 2012-08-22T19:15:46+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634145906 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002209s ]
+[ 2012-08-22T19:15:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:15:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Run CheckRoute Behavior [ RunTime:0.001021s ]
+[ 2012-08-22T19:15:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001224s ]
+[ 2012-08-22T19:15:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:15:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000996s ]
+[ 2012-08-22T19:15:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001173s ]
+[ 2012-08-22T19:15:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | SQL: SHOW COLUMNS FROM `pingjia` [ RunTime:0.002100s ]
+[ 2012-08-22T19:15:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | SQL: SELECT * FROM `pingjia` WHERE ( `id` = '14' ) LIMIT 1   [ RunTime:0.000327s ]
+[ 2012-08-22T19:15:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:15:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Run LocationTemplate Behavior [ RunTime:0.001271s ]
+[ 2012-08-22T19:15:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001480s ]
+[ 2012-08-22T19:15:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:15:49+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Run ParseTemplate Behavior [ RunTime:0.011673s ]
+[ 2012-08-22T19:15:49+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011902s ]
+[ 2012-08-22T19:15:49+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:15:49+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Run ContentReplace Behavior [ RunTime:0.000853s ]
+[ 2012-08-22T19:15:49+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Run TokenBuild Behavior [ RunTime:0.001015s ]
+[ 2012-08-22T19:15:49+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000542s ]
+[ 2012-08-22T19:15:49+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Run ShowRuntime Behavior [ RunTime:0.001457s ]
+[ 2012-08-22T19:15:49+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004359s ]
+[ 2012-08-22T19:15:49+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:15:49+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002122s ]
+[ 2012-08-22T19:15:49+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634148243 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002436s ]
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Run CheckRoute Behavior [ RunTime:0.001173s ]
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001375s ]
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001007s ]
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001177s ]
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | SQL: SHOW COLUMNS FROM `pingjia` [ RunTime:0.001958s ]
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | SQL: SELECT * FROM `pingjia` WHERE ( `id` = '14' ) LIMIT 1   [ RunTime:0.000365s ]
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Run LocationTemplate Behavior [ RunTime:0.000937s ]
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001123s ]
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Run ParseTemplate Behavior [ RunTime:0.009332s ]
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009537s ]
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Run ContentReplace Behavior [ RunTime:0.000754s ]
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Run TokenBuild Behavior [ RunTime:0.000954s ]
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000576s ]
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Run ShowRuntime Behavior [ RunTime:0.001362s ]
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004129s ]
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001882s ]
+[ 2012-08-22T19:15:59+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634159216 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002081s ]
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Run CheckRoute Behavior [ RunTime:0.001036s ]
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001238s ]
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001004s ]
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001189s ]
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | SQL: SHOW COLUMNS FROM `pingjia` [ RunTime:0.002536s ]
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | SQL: SELECT * FROM `pingjia` WHERE ( `id` = '12' ) LIMIT 1   [ RunTime:0.000361s ]
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Run LocationTemplate Behavior [ RunTime:0.000982s ]
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001157s ]
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Run ParseTemplate Behavior [ RunTime:0.011996s ]
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012184s ]
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Run ContentReplace Behavior [ RunTime:0.000829s ]
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Run TokenBuild Behavior [ RunTime:0.001003s ]
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000601s ]
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Run ShowRuntime Behavior [ RunTime:0.001555s ]
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004493s ]
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002016s ]
+[ 2012-08-22T19:17:22+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634242497 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002249s ]
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Run CheckRoute Behavior [ RunTime:0.001060s ]
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001272s ]
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001085s ]
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001258s ]
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | SQL: SHOW COLUMNS FROM `pingjia` [ RunTime:0.001931s ]
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | SQL: SELECT * FROM `pingjia` WHERE ( `id` = '12' ) LIMIT 1   [ RunTime:0.000266s ]
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Run LocationTemplate Behavior [ RunTime:0.000930s ]
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001116s ]
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Run ParseTemplate Behavior [ RunTime:0.011398s ]
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011645s ]
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Run ContentReplace Behavior [ RunTime:0.001103s ]
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Run TokenBuild Behavior [ RunTime:0.001486s ]
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000796s ]
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Run ShowRuntime Behavior [ RunTime:0.002032s ]
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006120s ]
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002653s ]
+[ 2012-08-22T19:17:32+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634251821 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002920s ]
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Run CheckRoute Behavior [ RunTime:0.001374s ]
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001623s ]
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000952s ]
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001124s ]
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | SQL: SHOW COLUMNS FROM `pingjia` [ RunTime:0.002044s ]
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | SQL: SELECT * FROM `pingjia` WHERE ( `id` = '14' ) LIMIT 1   [ RunTime:0.000361s ]
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Run LocationTemplate Behavior [ RunTime:0.001098s ]
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001289s ]
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Run ParseTemplate Behavior [ RunTime:0.011392s ]
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011582s ]
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Run ContentReplace Behavior [ RunTime:0.000783s ]
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Run TokenBuild Behavior [ RunTime:0.001007s ]
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000587s ]
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Run ShowRuntime Behavior [ RunTime:0.001365s ]
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004260s ]
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001793s ]
+[ 2012-08-22T19:18:05+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/14?_=1345634285579 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002004s ]
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000978s ]
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001180s ]
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002565s ]
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000260s ]
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000387s ]
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001002s ]
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001180s ]
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.019695s ]
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019877s ]
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000861s ]
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run TokenBuild Behavior [ RunTime:0.000904s ]
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000552s ]
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001048s ]
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003865s ]
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.001021s ]
+[ 2012-08-22T19:18:38+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.001218s ]
+[ 2012-08-22T19:18:39+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Run CheckRoute Behavior [ RunTime:0.001079s ]
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001287s ]
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000986s ]
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001159s ]
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.001839s ]
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.002298s ]
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | SQL: SELECT COUNT(id) AS tp_count FROM `course` LIMIT 1   [ RunTime:0.000315s ]
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | SQL: SELECT * FROM `course` ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000342s ]
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Run LocationTemplate Behavior [ RunTime:0.001394s ]
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001638s ]
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 3 行.
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | NOTIC: [8] Undefined index: _sort 8e20033806df2222c944c134d50f6ac8.php 第 4 行.
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 48 行.
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 49 行.
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 50 行.
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 51 行.
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 52 行.
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 53 行.
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 54 行.
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | NOTIC: [8] A non well formed numeric value encountered 8e20033806df2222c944c134d50f6ac8.php 第 65 行.
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Run ParseTemplate Behavior [ RunTime:0.019990s ]
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020193s ]
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Run ContentReplace Behavior [ RunTime:0.000915s ]
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Run TokenBuild Behavior [ RunTime:0.001001s ]
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000593s ]
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Run ShowRuntime Behavior [ RunTime:0.001384s ]
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004383s ]
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001857s ]
+[ 2012-08-22T19:18:43+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634322918 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002062s ]
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Run CheckRoute Behavior [ RunTime:0.001462s ]
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001718s ]
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001305s ]
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001537s ]
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | SQL: SHOW COLUMNS FROM `pingjia` [ RunTime:0.002431s ]
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | SQL: SELECT * FROM `pingjia` WHERE ( `id` = '12' ) LIMIT 1   [ RunTime:0.000325s ]
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Run LocationTemplate Behavior [ RunTime:0.000953s ]
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001125s ]
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Run ParseTemplate Behavior [ RunTime:0.011945s ]
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012145s ]
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Run ContentReplace Behavior [ RunTime:0.000839s ]
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Run TokenBuild Behavior [ RunTime:0.001039s ]
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000569s ]
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Run ShowRuntime Behavior [ RunTime:0.001488s ]
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004449s ]
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002196s ]
+[ 2012-08-22T19:18:45+08:00 ] /dwz_thinkphp3/Admin/index.php/Pingjia/edit/id/12?_=1345634325242 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002482s ]
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001042s ]
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001232s ]
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002064s ]
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000257s ]
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000440s ]
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001021s ]
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001196s ]
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.016389s ]
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016580s ]
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000834s ]
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run TokenBuild Behavior [ RunTime:0.000862s ]
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000564s ]
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001073s ]
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003803s ]
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.001165s ]
+[ 2012-08-22T19:20:10+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.001420s ]
+[ 2012-08-22T19:20:11+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Run CheckRoute Behavior [ RunTime:0.001084s ]
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001297s ]
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001086s ]
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001265s ]
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.001880s ]
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.001977s ]
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | SQL: SELECT COUNT(id) AS tp_count FROM `course` LIMIT 1   [ RunTime:0.000332s ]
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | SQL: SELECT * FROM `course` ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000333s ]
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Run LocationTemplate Behavior [ RunTime:0.001543s ]
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001786s ]
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 3 行.
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | NOTIC: [8] Undefined index: _sort 8e20033806df2222c944c134d50f6ac8.php 第 4 行.
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 48 行.
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 49 行.
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 50 行.
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 51 行.
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 52 行.
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 53 行.
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 54 行.
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | NOTIC: [8] A non well formed numeric value encountered 8e20033806df2222c944c134d50f6ac8.php 第 65 行.
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Run ParseTemplate Behavior [ RunTime:0.023373s ]
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023558s ]
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Run ContentReplace Behavior [ RunTime:0.000756s ]
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Run TokenBuild Behavior [ RunTime:0.000962s ]
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000572s ]
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Run ShowRuntime Behavior [ RunTime:0.001352s ]
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004158s ]
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001840s ]
+[ 2012-08-22T19:20:15+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634414759 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002056s ]
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Run CheckRoute Behavior [ RunTime:0.001073s ]
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001271s ]
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000999s ]
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001172s ]
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Run LocationTemplate Behavior [ RunTime:0.000923s ]
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001112s ]
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | NOTIC: [8] Undefined variable: vo 7c89ecbd86f4523a97c9e8e83b6faf56.php 第 12 行.
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | NOTIC: [8] Undefined variable: vo 7c89ecbd86f4523a97c9e8e83b6faf56.php 第 18 行.
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Run ParseTemplate Behavior [ RunTime:0.009140s ]
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009320s ]
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Run ContentReplace Behavior [ RunTime:0.000748s ]
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Run TokenBuild Behavior [ RunTime:0.001353s ]
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000577s ]
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Run ShowRuntime Behavior [ RunTime:0.001347s ]
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004547s ]
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001943s ]
+[ 2012-08-22T19:20:17+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/14?_=1345634416993 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002169s ]
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Run CheckRoute Behavior [ RunTime:0.001623s ]
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001878s ]
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001708s ]
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001961s ]
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Run LocationTemplate Behavior [ RunTime:0.001349s ]
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001599s ]
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | NOTIC: [8] Undefined variable: vo 7c89ecbd86f4523a97c9e8e83b6faf56.php 第 12 行.
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | NOTIC: [8] Undefined variable: vo 7c89ecbd86f4523a97c9e8e83b6faf56.php 第 18 行.
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Run ParseTemplate Behavior [ RunTime:0.011486s ]
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011946s ]
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Run ContentReplace Behavior [ RunTime:0.000898s ]
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Run TokenBuild Behavior [ RunTime:0.001057s ]
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000640s ]
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Run ShowRuntime Behavior [ RunTime:0.001422s ]
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004500s ]
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002997s ]
+[ 2012-08-22T19:20:27+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/pjadd/id/12?_=1345634427624 | INFO: Tag[ view_end ] --END-- [ RunTime:0.003273s ]
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001060s ]
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001265s ]
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SHOW COLUMNS FROM `node` [ RunTime:0.002061s ]
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id` FROM `node` LIMIT 1   [ RunTime:0.000227s ]
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | SQL: SELECT `id`,`name`,`group_id`,`title` FROM `node` WHERE ( `level` = 2 ) AND ( `status` = 1 ) AND ( `pid` = '1' ) ORDER BY sort asc  [ RunTime:0.000369s ]
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | NOTIC: [8] Undefined index: _ACCESS_LIST IndexAction.class.php 第 17 行.
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run LocationTemplate Behavior [ RunTime:0.001019s ]
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_template ] --END-- [ RunTime:0.001197s ]
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ParseTemplate Behavior [ RunTime:0.017323s ]
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017507s ]
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ContentReplace Behavior [ RunTime:0.000889s ]
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run TokenBuild Behavior [ RunTime:0.000880s ]
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000611s ]
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowRuntime Behavior [ RunTime:0.001394s ]
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004299s ]
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Run ShowPageTrace Behavior [ RunTime:0.000909s ]
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/index.php | INFO: Tag[ view_end ] --END-- [ RunTime:0.001097s ]
+[ 2012-08-22T19:21:44+08:00 ] /dwz_thinkphp3/Admin/js/dwz.regional.zh.js | ERR: (ThinkException) 无法加载模块js
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Run CheckRoute Behavior [ RunTime:0.001075s ]
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001277s ]
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000946s ]
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001120s ]
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.002105s ]
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.001940s ]
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | SQL: SELECT COUNT(id) AS tp_count FROM `course` LIMIT 1   [ RunTime:0.000317s ]
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | SQL: SELECT * FROM `course` ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.000329s ]
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Run LocationTemplate Behavior [ RunTime:0.001088s ]
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001274s ]
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 3 行.
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | NOTIC: [8] Undefined index: _sort 8e20033806df2222c944c134d50f6ac8.php 第 4 行.
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 48 行.
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 49 行.
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 50 行.
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 51 行.
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 52 行.
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 53 行.
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | NOTIC: [8] Undefined index: _order 8e20033806df2222c944c134d50f6ac8.php 第 54 行.
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | NOTIC: [8] A non well formed numeric value encountered 8e20033806df2222c944c134d50f6ac8.php 第 65 行.
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Run ParseTemplate Behavior [ RunTime:0.026397s ]
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.026589s ]
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Run ContentReplace Behavior [ RunTime:0.000836s ]
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Run TokenBuild Behavior [ RunTime:0.000997s ]
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001164s ]
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Run ShowRuntime Behavior [ RunTime:0.001721s ]
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005308s ]
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002419s ]
+[ 2012-08-22T19:21:48+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/index?_=1345634507937 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002645s ]
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Run CheckRoute Behavior [ RunTime:0.001504s ]
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001765s ]
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001475s ]
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001672s ]
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.002084s ]
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | SQL: SELECT * FROM `course` WHERE ( `id` = '14' ) LIMIT 1   [ RunTime:0.000368s ]
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Run LocationTemplate Behavior [ RunTime:0.001409s ]
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001637s ]
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Run ParseTemplate Behavior [ RunTime:0.012654s ]
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.012872s ]
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Run ContentReplace Behavior [ RunTime:0.000744s ]
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Run TokenBuild Behavior [ RunTime:0.000952s ]
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000623s ]
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Run ShowRuntime Behavior [ RunTime:0.001524s ]
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004370s ]
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001923s ]
+[ 2012-08-22T19:21:50+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/14?_=1345634510296 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002168s ]
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Tag[ route_check ] --START--
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Run CheckRoute Behavior [ RunTime:0.001083s ]
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001276s ]
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001024s ]
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001209s ]
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | SQL: SHOW COLUMNS FROM `course` [ RunTime:0.002386s ]
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | SQL: SELECT * FROM `course` WHERE ( `id` = '12' ) LIMIT 1   [ RunTime:0.000335s ]
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Tag[ view_template ] --START--
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Run LocationTemplate Behavior [ RunTime:0.001088s ]
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001270s ]
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Run ParseTemplate Behavior [ RunTime:0.011625s ]
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.011851s ]
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Run ContentReplace Behavior [ RunTime:0.001083s ]
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Run TokenBuild Behavior [ RunTime:0.001345s ]
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000691s ]
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Run ShowRuntime Behavior [ RunTime:0.001411s ]
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005090s ]
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Tag[ view_end ] --START--
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001941s ]
+[ 2012-08-22T19:23:02+08:00 ] /dwz_thinkphp3/Admin/index.php/Course/edit/id/12?_=1345634581826 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002152s ]

@@ -1,4 +1,4 @@
-
+<?php if (!defined('THINK_PATH')) exit();?>
 <script language="JavaScript">
 <!--
 function checkName(){
@@ -8,14 +8,13 @@ function checkName(){
 </script>
 
 
-<div class="pageContent">
-	<p>{$vo.cname}{$_GET['id']}</p>
+<div class="pageContent"
 	<form method="post" action="__URL__/insert" class="pageForm required-validate" onsubmit="return validateCallback(this, dialogAjaxDone)">
 		<input type="hidden" name="cid" value="<?php echo $_GET['id'] ?>"/>
 		<div class="pageFormContent" layoutH="58">
 			<div class="unit">
 				<label>串讲题目:</label>
-				<input type="text" readonly="readonly" value={$vo.cname} >
+				<input type="text" type="readonly" value=${vo.cname} />
 			</div>
 			<div class="unit">
 				<label>问题：</label>
@@ -32,6 +31,3 @@ function checkName(){
 	</form>
 	
 </div>
-
-
-
