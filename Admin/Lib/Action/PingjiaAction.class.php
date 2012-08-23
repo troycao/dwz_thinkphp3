@@ -20,47 +20,35 @@ class PingjiaAction extends CommonAction {
            	$this->success('该用户名可以使用！');
         }
     }
-	function index() {
-	//列表过滤器，生成查询Map对象
+	 function index() {
+		//列表过滤器，生成查询Map对象
 		$map = $this->_search ();
 		if (method_exists ( $this, '_filter' )) {
 			$this->_filter ( $map );
 		}
 		$name=$this->getActionName();
-		$vo = D ($name);
-		$id = $_REQUEST [$vo->getPk ()];
-		$model = $vo->getById( $id );
+		$model = D ($name);
+		$model ->where("cid={$_GET['id']}")->find();
 		if (! empty ( $model )) {
-			$this->_list ( $modle, $map );
+			$this->_list ( $model, $map );
 		}
 		$this->display ();
 		return;
-	}
-    
+	}    
 	// 插入数据
 	public function insert() {
 		// 创建数据对象
-		$User	 =	 D("User");
-		if(!$User->create()) {
-			$this->error($User->getError());
+		$Pingjia     =	  D("Pingjia");
+		if(!$Pingjia->create()) {
+			$this->error($Pingjia->getError());
 		}else{
 			// 写入帐号数据
-			if($result	 =	 $User->add()) {
-				$this->addRole($result);
-				$this->success('用户添加成功！');
+			if($result	 =	 $Pingjia->add()) {
+				$this->success('添加成功！');
 			}else{
-				$this->error('用户添加失败！');
+				$this->error('添加失败！');
 			}
 		}
-	}
-
-	protected function addRole($userId) {
-		//新增用户自动加入相应权限组
-		$RoleUser = M("RoleUser");
-		$RoleUser->user_id	=	$userId;
-        // 默认加入网站编辑组
-        $RoleUser->role_id	=	3;
-		$RoleUser->add();
 	}
 
     //重置密码

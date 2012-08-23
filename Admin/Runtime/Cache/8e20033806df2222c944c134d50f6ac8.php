@@ -36,8 +36,9 @@
 		<ul class="toolBar">
 			<li><a class="add" href="__URL__/add" target="navTab" mask="true"><span>新增</span></a></li>
 			<li><a class="delete" href="__URL__/foreverdelete/id/{sid_user}/navTabId/__MODULE__" target="ajaxTodo" title="你确定要删除吗？" warn="请选择用户"><span>删除</span></a></li>
-			<li><a class="edit" href="__APP__/Course/edit/id/{sid_user}" target="dialog" mask="true" warn="请选择用户"><span>评价</span></a></li>
 			<li class="line">line</li>
+			<li><a class="edit" href="__APP__/Course/edit/id/{sid_user}" target="dialog" mask="true" warn="请选择用户"><span>添加评价</span></a></li>
+			<li><a class="edit" href="__APP__/Pingjia/index/id/{sid_user}" target="navTab" mask="true" warn="请选择用户"><span>查看评价</span></a></li>
 			<li><a class="icon" href="__URL__/password/id/{sid_user}" target="dialog" mask="true" warn="请选择用户"><span>修改密码</span></a></li>
 			<li><a class="icon" href="javascript:$.printBox('w_list_print')"><span>打印</span></a></li>
 		</ul>

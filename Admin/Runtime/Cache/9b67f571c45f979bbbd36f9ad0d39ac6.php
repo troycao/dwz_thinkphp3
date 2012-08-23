@@ -10,8 +10,9 @@ function checkName(){
 
 <div class="pageContent">
 	<p><?php echo ($vo["cname"]); echo ($_GET['id']); ?></p>
-	<form method="post" action="__URL__/insert" class="pageForm required-validate" onsubmit="return validateCallback(this, dialogAjaxDone)">
+	<form method="post" action="__APP__/Pingjia/insert" class="pageForm required-validate" onsubmit="return validateCallback(this, dialogAjaxDone)">
 		<input type="hidden" name="cid" value="<?php echo $_GET['id'] ?>"/>
+		<input type="hidden" name="pname" value="<?php echo $_SESSION[('loginUserName')] ?>"/>
 		<div class="pageFormContent" layoutH="58">
 			<div class="unit">
 				<label>串讲题目:</label>

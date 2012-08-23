@@ -13,25 +13,25 @@
 	<table class="list" width="100%" targetType="navTab" >
 		<thead>
 			<tr>
-				<th width="50" orderField="cpro" <if condition="$_REQUEST._order eq 'cpro'">class="{$_REQUEST._sort}"</if>>产品线</th>
+				<th width="50" orderField="cid" <if condition="$_REQUEST._order eq 'cid'">class="{$_REQUEST._sort}"</if>>产品线</th>
 				<th width="40" orderField="pname" <if condition="$_REQUEST._order eq 'pname'">class="{$_REQUEST._sort}"</if>>姓名</th>
-				<th width="50" orderField="corg" <if condition="$_REQUEST._order eq 'corg'">class="{$_REQUEST._sort}"</if>>所在组</th>
-				<th            orderField="cname" <if condition="$_REQUEST._order eq 'cname'">class="{$_REQUEST._sort}"</if>>内容</th>
-				<th width="60" orderField="cplace" <if condition="$_REQUEST._order eq 'cplace'">class="{$_REQUEST._sort}"</if>>地点</th>
-				<th width="80" orderField="ctime" <if condition="$_REQUEST._order eq 'ctime'">class="{$_REQUEST._sort}"</if>>评价</th>
-				<th width="80" orderField="ctime" <if condition="$_REQUEST._order eq 'ctime'">class="{$_REQUEST._sort}"</if>>日期</th>
+				<th width="50" orderField="pj1" <if condition="$_REQUEST._order eq 'pj1'">class="{$_REQUEST._sort}"</if>>所在组</th>
+				<th            orderField="pj2" <if condition="$_REQUEST._order eq 'pj2'">class="{$_REQUEST._sort}"</if>>内容</th>
+				<th width="60" orderField="pj3" <if condition="$_REQUEST._order eq 'pj3'">class="{$_REQUEST._sort}"</if>>地点</th>
+				<th width="80" orderField="question" <if condition="$_REQUEST._order eq 'ctime'">class="{$_REQUEST._sort}"</if>>评价</th>
+				<th width="80" orderField="question" <if condition="$_REQUEST._order eq 'ctime'">class="{$_REQUEST._sort}"</if>>日期</th>
 			</tr>
 		</thead>
 		<tbody>
 		<volist id="vo" name="list">
 			<tr target="sid_user" rel="{$vo['id']}">
-				<td>{$vo['cpro']}</td>
+				<td>{$vo['cid']}</td>
 				<td>{$vo['pname']}</td>
-				<td>{$vo['corg']}</td>
-				<td>{$vo['cname']}</td>
-				<td>{$vo['cplace']}</td>
-				<td>{$vo['ctime']}</td>
-				<td>{$vo['ctime']|date="Y-m-d H:i",###}</td>
+				<td>{$vo['pj1']}</td>
+				<td>{$vo['pj2']}</td>
+				<td>{$vo['pj3']}</td>
+				<td>{$vo['question']}</td>
+				<td>{$vo['answer']</td>
 			</tr>
 		</volist>
 		</tbody>
